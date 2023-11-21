@@ -1,0 +1,146 @@
+Google Organic Shopping nu ook zichtbaar tussen de Standard Blue Links: Optimalisatietips voor succes!
+
+Zoekmachine Optimalisatie
+Door Sharona Snoeren
+Gepost september 5, 2023
+Leestijd: 10 minuten
+Google Shopping bestaat nu zo’n 11 jaar. 8 jaar lang was het alleen mogelijk om hierin vertoond te worden door middel van betaalde advertenties. Sinds april 2020 schudde Google de wereld wakker door ook gratis vermeldingen op te nemen in de Google Shopping resultaten. 
+
+Eerst werden alleen de Google Organic Shopping resultaten vertoond onder de Shopping Tab, maar nu zie je het steeds meer terug in de SERP tussen de Standard Blue Links. Des te belangrijker dat je hierin dus zichtbaar bent. Maar hoe kun je hier nu beter zichtbaar in worden?
+
+
+Wat kun je lezen en leren in dit blogbericht?
+
+Google Organic Shopping resultaten wordt steeds prominenter getoond in de zoekresultaten
+Verschil Google Shopping: betaald v.s. organisch
+Waar toont Google de Organic Shopping resultaten? 
+Hoe kun je jouw Google Shopping feed optimaliseren voor SEO?
+Hoe kun je de Google Organic Shopping resultaten doormeten?
+Hoe kun je de resultaten monitoren?
+Google Organic Shopping resultaten wordt steeds prominenter getoond in de zoekresultaten
+Amerika is koploper als het gaat om nieuwe features in Google. In dit land worden dan ook steeds als eerst de nieuwste SERPS vertoond en later wordt dit vaak wereldwijd uitgerold. 
+
+In Amerika zien we dan ook steeds meer organische shopping resultaten getoond worden in de SERP tussen de Standard Blue Links in plaats van alleen maar onder de shopping tab. Uiteraard krijg je bovenaan nog steeds de Shopping advertenties te zien, want Google wil ook geld blijven verdienen, maar verderop in de SERP worden vervolgens ook de Organic Shopping resultaten getoond. 
+
+En terwijl ik dit blogbericht schrijf, zien we zelfs al dat Google bezig is om dit ook in Nederland en België uit te rollen.
+
+
+Google Search Generative Experience
+Google is in mei dit jaar begonnen met het uitrollen van de nieuwe Google Search Generative Experience (SGE). Alleen mensen die zich in hebben geschreven op de wachtlijst hebben hier toegang tot. 
+
+De afgelopen 25 jaar heeft Google gebouwd aan hun zoekmachine. Met de komst van AI heeft Google SGE als experiment opgezet om AI-mogelijkheden te integreren in de zoekmachine. Ook hierbij worden de Organic Shopping resultaten steeds prominenter getoond. Dit ziet er als volgt uit:
+
+
+Er worden slechts enkele producten vertoond. Je wilt hier natuurlijk met jouw website tussen komen te staan. Hoe je dit voor elkaar krijgt, lees je verderop in dit blogbericht. 
+
+Verschil Google Shopping: betaald v.s. organisch
+In Google kun je zowel Paid Shopping als Organic Shopping resultaten tegenkomen, maar wat is nu het verschil?
+
+Paid shopping
+
+Organic shopping
+
+Adverteren: Betaalde winkelvermeldingen, ook wel Product Listing Ads (PLA’s) genoemd, zijn advertenties waar webshops voor betalen om hun producten te promoten op de zoekresultatenpagina van Google.
+
+Onbetaalde resultaten: Organische winkelvermeldingen zijn onbetaalde resultaten die worden weergegeven op basis van hun relevantie voor de zoekopdracht van de gebruiker, zonder directe betaling.
+
+Plaats: Betaalde winkelvermeldingen verschijnen meestal bovenaan of aan de zijkant van de zoekresultatenpagina, los van de organische zoekresultaten.
+
+Plaats: Organische winkelvermeldingen zijn geïntegreerd binnen de algemene organische zoekresultaten en worden weergegeven naast webpagina’s, nieuwsartikelen en andere soorten content.
+
+Prominentie: Betaalde winkelvermeldingen hebben vaak een meer visueel prominente aanwezigheid en tonen productafbeeldingen, prijzen en aanvullende informatie zoals beoordelingen en waarderingen.
+
+Rankingfactoren: De ranking van organische winkelvermeldingen wordt bepaald door de zoekalgoritmen van Google, waarbij verschillende factoren zoals de relevantie van het product, gebruikersbeoordelingen, websitekwaliteit en andere SEO-gerelateerde aspecten worden meegewogen.
+
+Kosten: Adverteerders betalen voor betaalde winkelvermeldingen op basis van pay-per-click (PPC), wat betekent dat ze alleen betalen wanneer een gebruiker op hun advertentie klikt.
+
+Gratis verkeer: Webshops hoeven niet te betalen voor klikken via organische winkelvermeldingen, maar ze investeren wel in SEO-inspanningen om hun zichtbaarheid en ranking in de zoekresultaten te verbeteren.
+
+Controle: Adverteerders hebben controle over de specifieke producten die ze willen promoten, de advertentietekst en de biedstrategie om te bepalen hoe vaak hun advertenties worden weergegeven.
+
+ 
+Waar toont Google de Organic Shopping resultaten?
+Wanneer we naar de zoekresultaten kijken, dan zien we dat de organische shopping resultaten momenteel op meerdere plekken getoond worden. 
+
+1. Shopping Tab (sinds april 2020)
+Wanneer je in Google een zoekopdracht intypt die E-commerce gerelateerd is, kun je doorklikken naar de Shopping Tab.
+
+Je krijgt dan onderstaande zoekopdrachten te zien waarbij het bovenste gedeelte Paid Shopping is en daaronder Organic Shopping. Dit is ook zichtbaar in Nederland en België.
+
+
+2. In de Google SERP (NIEUW)
+Sinds eind juni (dit jaar) zien we bij MvH Media de Organic Shopping resultaten ook terugkomen tussen de Standard Blue Links. Iets wat alleen nog maar in Amerika te zien was, maar nu ook in Nederland en België.
+
+Wanneer een gebruiker op een product klikt, verschijnt er aan de rechterkant een venster met productdetails, beoordelingen en verschillende aanbieders zoals jouw website die het product aanbieden. Dit pop-upvenster wordt ook wel het Knowledge Panel genoemd.
+
+ 
+
+
+Hoe kun je jouw Google Shopping feed optimaliseren voor SEO?
+Eerst is het belangrijk om te weten of je in aanmerking komt voor gratis Google Shopping. Hoe je dit doet, kun je lezen in dit eerdere blogbericht van MvH Media.
+
+Er zijn verschillende factoren die je zichtbaarheid in Google Shopping kunnen verbeteren. De prijs en product titels zijn twee van de belangrijkste aspecten als het gaat om optimalisatie van productfeeds. Hieronder vind je enkele tips om je te helpen je Google Shopping feed te optimaliseren.
+
+Optimaliseer product titels
+Onderzoek heeft aangetoond dat optimalisatie van product titels een grote invloed kan hebben op de weergave en het aantal klikken in Google Shopping-advertenties. De resultaten zijn vergelijkbaar voor organische vermeldingen. Het begrijpen van hoe gebruikers zoeken naar producten zoals die van jou, helpt je bij het maken van goed geoptimaliseerde product titels in je feed.
+
+Doe een zoekwoordenonderzoek
+Als je al Shopping-campagnes uitvoert, zorg er dan voor dat je je zoektermen rapporten doorzoekt om te begrijpen welke zoektermen je productadvertenties activeren. Overweeg populaire termen die goed presteren in je product titels toe te voegen om het aantal weergaven voor je producten te vergroten. Ook kun je uit Google Search Console veel interessante zoektermen halen.
+
+ 
+
+Bekijk ook eens de Shopping-resultaten. Hierbij toont Google filteropties voor je productcategorieën. Google toont ook gerelateerde zoekopdrachten onderaan de zoekresultatenpagina’s. De belangrijkste zoekresultaten van Google bevatten ook vaak suggesties om een zoekopdracht te “verfijnen” – bijvoorbeeld op basis van trends, pasvorm, materiaal, enzovoort.
+
+Prijs
+Als je betaalde Shopping-campagnes uitvoert, kan het rapport voor prijsconcurrentie in Google Merchant Center nuttig zijn om te laten zien hoe jouw productprijzen zich verhouden tot de concurrentie. Je moet je aanmelden voor Market Insights in GMC om deze functie te gebruiken. Dit rapport toont alleen gegevens van advertenties, maar kan je helpen bepalen hoe prijsconcurrerend jouw producten over het algemeen zijn. Zorg ervoor dat de prijsgegevens in je feed overeenkomen met de prijzen op je bestemmingspagina’s.
+
+Reviews
+Wat we verder zien, is dat voornamelijk producten getoond worden met reviews. Het is dan ook belangrijk dat je ook op productniveau reviews verzamelt. Door het toevoegen van product reviews verbeter je jouw Google Shopping resultaten. Hoe je de productreviews zichtbaar krijgt in Google Shopping lees je hier.
+
+
+Kortingen
+Google geeft aan wanneer producten in de aanbieding zijn wanneer je de attribuut “Sale price” gebruikt in je productfeed. Kortingen kunnen worden weergegeven als een “prijsverlaging” of “uitverkoop”-banner in Google Shopping.
+
+Afbeeldingen
+Hoogwaardige productafbeeldingen zijn een must. Een productafbeelding kan een verkoop maken of breken. Hoe beter de afbeeldingen zijn, hoe meer ze klanten aantrekken. Zorg ervoor dat je hoge resolutie, duidelijke en aantrekkelijke afbeeldingen plaatst voor al je producten. Als je een productgalerij hebt voor een product, haalt Google Shopping die galerij ook op uit je productfeed en toont deze in de gratis vermeldingen.
+
+De standaard aanbeveling is om je afbeeldingen met een witte achtergrond weer te geven. Dat is een goede vuistregel, maar er is ruimte om te experimenteren. Door een woondecoratie product in een kamer te tonen, kan de schaal worden aangegeven en kunnen gebruikers zich een voorstelling maken van hoe het product eruit ziet in een bepaalde ruimte. Voeg, indien mogelijk, meerdere afbeeldingen toe aan je feeds met behulp van het attribuut “additional_image_link”. Je kunt maximaal 10 afbeeldingen per product toevoegen.
+
+Productbeschrijving
+Zorg ervoor dat je je doelgerichte zoekwoorden op de juiste manier opneemt in de productbeschrijving. Bovendien moet je ervoor zorgen dat je productbeschrijving specifiek, nauwkeurig en boeiend is voor de lezers. Gebruik dus niet de standaard productomschrijving vanuit de fabrikant.
+
+Productspecificaties
+Verder is het ook belangrijk om zo veel mogelijk productspecificaties toe te voegen aan een product. Je kunt hier Chat GPT bijvoorbeeld voor raadplegen om erachter te komen welke specificaties er allemaal zijn.
+
+
+Vervolgens kun je door een koppeling van Google Spreadsheets i.c.m. Chat GPT dit uiteindelijk automatisch laten genereren. Zo heb je snel en efficiënt een handig overzicht per product met de productspecificaties. Deze kun je vervolgens inladen op de productpagina.
+
+
+Hoe kun je de Google Organic Shopping resultaten doormeten?
+Je wilt natuurlijk weten hoeveel bezoekers en omzet je genereert met deze organische shopping resultaten. Om dit inzichtelijk te maken kun je UTM-tracking toevoegen aan de verschillende product-links. Wanneer je gebruik maakt van Channable kan dit heel gemakkelijk door middel van de volgende regel:
+
+
+Door het ID variabel te maken krijg je ook inzichtelijk door welke producten de klikken (en de omzet) zijn gerealiseerd. Mocht je geen gebruik maken van Channable, dan kun je dit oplossen door middel van een regel binnen Google Merchant Center.
+
+Hoe kun je de resultaten monitoren?
+Je kunt de prestaties van de gratis productvermeldingen terug zien in Google Search Console, Google Analytics of via een eigen gemaakt dashboard.
+
+Google Search Console
+In Google Search Console kun je dit onder andere terug zien in het prestatierapport door middel van een nieuwe filter, genaamd verkopersmeldingen.
+
+
+
+Samen met het nieuwe zoekweergavefilter voor verkopersmeldingen, kun je ook een overzicht zien van de vertoningen van deze gratis vermeldingen. Ook kun je in dit rapport signaleren of er problemen zijn met betrekking tot de verkopersmeldingen.
+
+
+Google Analytics
+Ook in Google Analytics 4 kun je het daadwerkelijke aantal gebruikers en sessies inzien die via Organic Shopping zijn binnengekomen met daarbij ook de inkomsten.
+
+
+Bij MvH Media houden we ervan om eigen data te verzamelen. We zijn dan ook Data-driven.  Wij geloven niet in het blindelings vertrouwen op SEO-tools of wat Google ons vertelt. Wij geloven in het verzamelen van onze eigen data om echte inzichten te verkrijgen en op basis daarvan actie te ondernemen. Zo hebben we ook een dashboard gebouwd waarin we de klikken vanuit Google Organic Shopping bij kunnen monitoren.
+
+
+Conclusie
+Eerst werden alleen de Google Organic Shopping resultaten vertoond onder de Shopping Tab, maar nu zie je het steeds meer terug in de SERP tussen de blauwe linkjes. Iets wat al langer in Amerika zichtbaar was, maar nu ook in Nederland en België. Des te belangrijker dat je hier tussen staat met jouw producten. Dit kun je onder andere verwezenlijken door het monitoren en optimaliseren van je product titels, de zoekwoorden, de prijs, afbeeldingen, productbeschrijvingen en de productspecificaties.
+
+Meer weten over Organic Shopping of heb je een ander SEO-vraagstuk? Neem dan gerust contact met ons op.

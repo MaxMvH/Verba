@@ -1,0 +1,67 @@
+Google (Core) updates
+
+Zoekmachine Optimalisatie
+Door Ilse Zwaans
+Gepost november 15, 2023
+Leestijd: 5 minuten
+Eén van de meest cruciale en invloedrijke aspecten van zoekmachineoptimalisatie (SEO) zijn de beruchte Google (Core) Updates. Deze updates hebben een directe impact op de manier waarop de zoekmachine websites evalueert en rangschikt
+
+Als we het hebben over deze updates, maakt Google onderscheidt in twee types:
+
+Google Core update:
+
+Core Updates zijn bedoeld om het algehele algoritme van Google te verbeteren. Ze richten zich op een breed scala aan factoren die de zoekresultaten beïnvloeden. Deze updates hebben vaak een grote impact op de zoekresultaten en kunnen invloed hebben op veel websites en zoekopdrachten. Ze zijn niet gericht op specifieke soorten sites of inhoud, maar zijn eerder algemene verbeteringen van het zoekalgoritme.: Deze updates gebeuren meerdere keren per jaar en worden meestal aangekondigd door Google.
+
+ 
+
+Google specifieke updates:
+
+Deze updates zijn gericht op specifieke aspecten van de kwaliteit van websites, zoals de link spam update die is uitgerold in december 2022. Deze updates hebben een meer gefocuste impact en zijn bedoeld om specifieke problemen of misbruiken binnen het ecosysteem van Google Search aan te pakken. Deze updates kunnen onregelmatig zijn en zijn vaak reacties op nieuwe soorten misbruiken of kwaliteitsproblemen die Google identificeert.
+
+ 
+
+Zoals altijd, zijn er het afgelopen jaar weer veel nieuwe Google (Core) updates uitgerold, in dit blogbericht zetten we alle Google updates van afgelopen jaar voor je op een rijtje.
+
+De Google Updates tijdlijn
+
+Google Core Update
+Deze kernupdate, die op 19 oktober is voltooid, geeft aan dat de algoritmes op deze specifieke datum zijn herzien om deze principes sterker te benadrukken. Dit kan leiden tot aanzienlijke verschuivingen in de ranglijst van zoekresultaten, waarbij sommige websites stijgen en andere dalen op basis van hoe goed ze voldoen aan de vernieuwde algoritme-eisen. Website-eigenaren worden nogmaals aangemoedigd om aandacht te besteden aan de kwaliteit van hun content, gebruikerservaring en de expertise die ze demonstreren in hun vakgebied om te profiteren van dergelijke kernupdates en een positieve impact op hun zoekrangschikking te behouden of te bereiken.
+5 Oktober 2023
+
+Spam Update
+Door deze update, die voltooid is op 20 oktober, heeft Google zijn spamdetectiesystemen versterkt om op een meer nauwkeurige en uitgebreide manier spam te identificeren en te elimineren, ongeacht de taal waarin deze voorkomt. De focus op diverse talen benadrukt de wereldwijde inspanning van Google om de kwaliteit van zoekresultaten wereldwijd te waarborgen.
+Lees meer
+4 Oktober 2023
+
+Nieuwe helpful content update
+Met deze update, is de eerdere helpful content update van december versterkt. Met de voltooiing van deze update op 28 september hebben de nieuwe algoritme-instellingen effect en beoordelen ze webpagina's op basis van hun vermogen om informatieve, originele, en waardevolle content te bieden. Website-eigenaren worden aangemoedigd om zich te concentreren op het produceren van content die daadwerkelijk relevant is voor hun doelgroep en minder op puur zoekmachinegerichte optimalisatie, om zo te profiteren van de verbeterde classificatie die door deze update wordt nagestreefd. Google heeft hier de uitspraak “geschreven door mensen” verwijderd en veranderd naar “geschreven voor mensen.” Dit heeft hoogstwaarschijnlijk te maken met de introductie van AI. Hiermee willen ze aangegeven dat AI gegenereerde content niet slecht is, zolang het maar relevant is voor de bezoeker.
+Lees meer
+14 September 2023
+
+Nieuwe Core Update
+Na de update van maart, heeft Google in augustus een nieuwe core update uitgerold. Deze nieuwe update versterkt Google’s gedachte achter het E-E-A-T principe. In het geval van de update die op uiteindelijk op 7 september is voltooid, duidt dit op de implementatie van vernieuwde algoritme-instellingen die specifiek zijn ontworpen om deze principes te benadrukken:
+Lees meer
+23 Augustus 2023
+
+Nieuwe Review Update
+De recente recensie-update van Google heeft een bredere reikwijdte gekregen en is nu van toepassing op een gevarieerd scala aan onderwerpen, waaronder producten, diensten, bestemmingen, games, films en meer. Deze update is gericht op het verbeteren van de manier waarop Google de waarde en relevantie van recensies beoordeelt, ongeacht het specifieke domein.
+Lees meer
+14 April 2023
+
+Nieuwe Wereldwijde Core Update
+Kernupdates, zoals toegepast door Google, zijn aanzienlijke aanpassingen aan het zoekalgoritme van de zoekmachine. Deze aanpassingen zijn ontworpen met als doel de kwaliteit van de zoekresultaten te verbeteren. Deze nieuwe wereldwijde core update richt zich vaak op het principe van E-E-A-T, wat staat voor Ervaring (Experience), Expertise, Autoriteit en Betrouwbaarheid. Deze fundamentele aspecten zijn cruciaal bij het beoordelen van de waarde van webpagina's en het waarborgen van hoogwaardige, nuttige content voor de gebruiker.
+Lees meer
+15 Maart 2023
+
+Nieuwe Product Reviews Update
+Deze specifieke update werd voltooid op 7 maart, wat betekent dat vanaf die datum de zoekalgoritmes van Google een voorkeur geven aan productrecensies die zijn geschreven door experts met directe kennis van de beoordeelde producten. Website-eigenaren en contentmakers worden aangemoedigd om de relevantie en authenticiteit van hun productrecensies te benadrukken om de positieve impact van deze update te maximaliseren.
+Lees meer
+21 Februari 2023
+
+Link Spam Update
+Met de voltooiing van deze update op 12 januari 2023 neemt Google stappen om de waarde van links te zuiveren en te verzekeren dat deze organisch en oprecht worden verdiend. Dit benadrukt de toewijding van Google aan het handhaven van eerlijke en authentieke praktijken op het gebied van linkbuilding. Het doel is om website-eigenaren aan te moedigen om zich te richten op het verkrijgen van hoogwaardige, natuurlijke links voor duurzame zoekprestaties. Concreet betekent dit dat het systeem sites kan herkennen die proberen hun online aanwezigheid kunstmatig te versterken door links te kopen, evenals sites die fungeren als tussenstations om linkwaarde door te geven.
+14 December 2023
+
+Helpful Content Update
+De update, die op 12 januari 2023 is voltooid, moedigt meer originele en informatieve inhoud aan en beloont websites die betrouwbare en nuttige informatie verstrekken. Dit houdt in dat websites die zich richten op het creëren van content van hoge kwaliteit en die voldoet aan de behoeften van gebruikers, waarschijnlijk positieve effecten zullen zien op hun positie in de zoekresultaten. Het primaire doel van deze update is om zoekresultaten te verbeteren door de nadruk te leggen op waardevolle inhoud die authentiek is, geschreven door menselijke auteurs voor een menselijk publiek. In plaats van te focussen op content die voornamelijk is geoptimaliseerd voor zoekmachines.
+5 December 2023

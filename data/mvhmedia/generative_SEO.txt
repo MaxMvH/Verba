@@ -1,0 +1,113 @@
+Generatieve SEO & de impact op de search experience
+
+Zoekmachine Optimalisatie, AI
+Door Rinse de Bont
+Gepost juni 5, 2023
+Leestijd: 9 minuten
+We duiken in de fascinerende wereld van SEO waarbij we het gaan hebben over de opkomst van Generatieve SEO. Een ontwikkeling die voortkomt uit de veel besproken opkomst van gebruik van AI, kunstmatige intelligentie. De ontwikkeling heeft een enorme impact op het toepassen van de traditionele SEO die we tot nu toe kennen. Het is misschien wel tijd om onze blik op zoekmachineoptimalisatie aan te passen.
+
+In deze blog nemen we je daarom in het volgende mee:
+
+Wat Generatieve SEO inhoudt
+De invloed van Generatieve AI
+De impact op de search experience
+Wat voor voordelen het met zich brengt
+Hoe je jouw huidige aanpak op de opkomst Generatieve SEO kunt voorbereiden
+Wat is Generatieve SEO?
+Generatieve SEO gaat een stap verder dan de traditionele SEO methoden die we tot nu toe hebben gebruikt. Waar Bing al gebruik maakt van een chatfunctie, heeft ook Google aangekondigd bezig te zijn om AI in hun zoekfunctie te integreren. Deze Generatieve AI integratie in Google, genaamd Search Generatieve Experience, wordt op dit moment als testversie in Search Labs door mensen in de Verenigde Staten uitgeprobeerd. Daarbij zal de nieuwe functie na de test fase in eerste instantie ook alleen in de Verenigde Staten beschikbaar zijn. Het gaat dus nog een tijdje duren voordat het Nederland bereikt. Toch zijn wij als online marketing bureau ervan bewust dat Generatieve AI een zeer grote impact op SEO gaat hebben. Zoals Google ook zelf beschrijft:
+
+ 
+
+“With this powerful new technology, we can unlock entirely new types of questions you never thought Search could answer, and transform the way information is organized, to help you sort through and make sense of what’s out there.”
+
+(Google: https://blog.google/products/search/Generatieve-AI search/)
+
+Google maakt hierbij duidelijk dat zij AI gegenereerde antwoorden in de zoekresultaten wil gaan toepassen. Door deze ontwikkeling, zal naar verwachting, het zoekgedrag in zoekmachines gaan veranderen en daar speelt Generatieve SEO een grote rol in!
+
+
+De impact van Generatieve AI op de search experience
+Met Generatieve AI wil Google de zoekervaring gemakkelijker maken door werk voor je uit handen te nemen. Door met behulp van AI zelf op jouw ingevulde zoekopdracht antwoord te geven, probeert Google je te helpen om jouw onderwerp sneller te begrijpen. Op dit moment vul je een zoekopdracht in en moet je in de meeste gevallen zelf door de zoekresultaten scrollen om de benodigde informatie te vinden.
+
+
+Het komt nu ook al voor dat Google door middel van Rich Results antwoord op je vraag geeft. Hieronder een voorbeeld van een Rich Result die wordt weergegeven op de zoekterm: Welke fietsmaat past bij mijn lengte?
+
+
+Dit is echter een website die met zijn tekstuele content deze specifieke vraag beantwoord en daarom door Google als relevant antwoord wordt gezien. Een mooi voorbeeld van een Rich Result dat de zoekervaring nu al voor de gebruiker makkelijker maakt, alleen wordt deze vorm niet bij elke zoekopdracht weergegeven. In de meeste gevallen kost het dus nog steeds veel tijd en moeite om het juiste antwoord te vinden. 
+
+Kortom, met de implementatie van Generatieve AI zal de zoekervaring in Google veranderen. In plaats van zelf naar de juiste informatie binnen de zoekresultaten te moeten zoeken, biedt Google nu direct een kant-en-klaar AI gegenereerd antwoord bovenaan de zoekresultaten op jouw vraag.
+
+Verfijning van long-tail keywords
+Een verwachte ontwikkeling is dan ook een verandering in het gebruik van long-tail keywords. Doordat gebruikers direct een kant-en-klaar antwoord krijgen, zullen ze steeds langere en informatievere zoektermen gaan invullen. Laten we bijvoorbeeld eens de vraag stellen: “Wat zijn leuke uitjes voor een gezin met kinderen onder de 3 jaar en een hond?” Normaal gesproken zou je deze ene vraag opsplitsen in kleinere vragen, informatie zoeken en vervolgens dan zelf uit de enorme hoeveelheid beschikbare informatie proberen alles bij elkaar te brengen. Maar met Generatieve AI kan dat ‘zware werk’ voor je uit handen worden genomen. Er wordt een antwoord gegeven op de vraag, samen met de daaropvolgende vragen die relevant kunnen zijn. Wanneer je hierop klikt, kom je in een nieuwe gespreksmodus waarin je Google meer vragen kunt stellen over het onderwerp. De context wordt telkens van vraag tot vraag overgedragen, zodat je dieper in het onderwerp kunt duiken. Je stelt dus zelf telkens de vraag wat je wilt weten en Google genereert dan voor jou het antwoord. 
+
+Google laat dit in het volgende voorbeeld zien. Hierbij wordt de volgende vraag gesteld: What’s better for a family with kids under 3 and a dog, bryce canon or Arches?
+
+
+Nu kun je al met verschillende beschikbare AI platformen op deze manier veel informatie verkrijgen. Maar het grote verschil met AI’s, zoals bijvoorbeeld OpenAI, is dat deze AI’s geen gebruik maken van bronvermelding, Google maakt hier echter wel gebruik van. Dit stelt de gebruiker in staat om direct naar de website te gaan die aan de zoekopdracht voldoet.
+
+Snellere en nauwkeurigere zoekopdrachten
+Generatieve SEO maakt ook snellere en nauwkeurigere zoekopdrachten mogelijk. Dankzij AI kunnen zoekmachines complexe zoekopdrachten sneller verwerken en meer relevante resultaten tonen. Dit draagt bij aan een betere gebruikerservaring, omdat de gebruikers sneller vinden wat ze zoeken. Bovendien kunnen zoekmachines nu ook beter omgaan met spelfouten, synoniemen en andere taalvariaties. Hierdoor krijgen gebruikers zelfs bij onnauwkeurige zoektermen toch de gewenste resultaten.
+
+Impact op Google Shopping
+Daarnaast gaat Generatieve AI ook het shoppen in Google beïnvloeden. Wanneer een gebruiker op zoek is naar een specifiek product, zal de AI automatisch rekening houden met de belangrijke producteisen en factoren bij de aankoop van dat product. Hierdoor krijg je een reeks productopties te zien die het meest relevant zijn voor jouw zoekopdracht. In de afbeelding hieronder is een voorbeeld van Google te zien. Hierbij wordt als product een elektrische fiets gebruikt. Het enige wat je hoeft te doen, is Google vragen welke elektrische fiets het beste past bij jouw criteria, en vervolgens krijg je direct een selectie elektrische fietsen te zien die aan jouw eisen voldoen.
+
+
+Verschillen met Google Shopping
+Als we dit voorbeeld van Generatieve AI dan vergelijken met hoe de huidige shopping functie in Google fungeert, dan zien we duidelijke verschillen:
+
+Bovenaan het zoekresultaat wordt uitgelegd waarom de onderstaande fietsen het beste aansluiten op de ingevulde zoekopdracht. Deze bevindingen worden met bronnen onderbouwd. Dit zorgt ervoor dat de gebruiker het zoekresultaat als betrouwbaar zal ervaren.
+In de huidige Google Shopping functie, moet de gebruiker zelf op zoek gaan welke fiets het beste bij de criteria past. Hierbij kan de gebruiker alleen oordelen op de productnaam, prijs, naam van de webshop en reviews. In de nieuwe situatie wordt er een selectie gepresenteerd die aan de eisen van de zoekopdracht voldoet en daarbij een korte uitleg gegeven waarom het product op de zoekopdracht aansluit.
+
+De invloed van Generatieve AI op SEO
+Met deze nieuwe ontwikkeling kunnen er bij jou vragen opkomen zoals: “Hoe kunnen onze SEO marketeers op inspelen?” “Is SEO straks nog wel nodig wanneer deze nieuwe AI ontwikkeling wordt uitgerold?” Deze vragen zijn begrijpelijk, maar de zorgen zijn niet direct noodzakelijk. Als SEO specialist weet je als geen ander dat de digitale wereld van SEO voortdurend in beweging is. Dus ook op het gebied van generatieve AI ontwikkelingen zul je je moeten voorbereiden en aanpassen.
+
+De relevantie van SEO in het tijdperk van Generatieve AI
+Hoewel de exacte impact natuurlijk nog niet duidelijk is, hoeven we ons geen zorgen te maken. De zoekmachines worden niet vervangen, ze worden juist relevanter en dat zorgt ervoor dat SEO van belang blijft. Het kan zelfs voor nieuwe kansen ons als SEO marketeers zorgen om op een andere manier producten of merken in de schijnwerpers te zetten.
+
+Een kans voor marketeers om zich te onderscheiden
+Zoals al eerder in deze blog is besproken, stelt Generatieve AI zoekmachines in staat om snelle en uitgebreide antwoorden op long-tail keywords te geven. Hierdoor hoeven gebruikers niet langer zelf naar informatie op zoek te gaan. Voor ons als SEO marketeers betekent dit dat we moeten gaan inspelen op deze nieuwe ontwikkelingen. We moeten ervoor gaan zorgen dat de content op de website van hoogwaardige kwaliteit wordt voorzien en daarbij op de nieuwe manier van zoeken wordt geoptimaliseerd. We moeten de content dus gaan richten op de mogelijke antwoorden die door de AI wordt gegenereerd. Een ontwikkeling waar Google al eerder, in de vorm van de Helpful Content Update over heeft gecommuniceerd.
+
+Daling in verkeer
+In de blog is al eerder toegelicht hoe gebruikers nu binnen Google op zoek gaan naar het antwoord op hun ingevoerde zoekopdracht. Tijdens deze zoektocht bezoekt de gebruiker meerdere websites om de juiste informatie te vinden. Maar met Generatieve AI hoeven gebruikers niet langer meerdere websites te bezoeken om tot de gewenste informatie te komen. Dit heeft als gevolg dat het verkeer dat websites momenteel ontvangen, doordat de gebruiker nu meerdere websites moet bezoeken om tot de juiste informatie te komen, gaat verminderen. Hierdoor krijgt het doel van ‘verkeer’ een andere betekenis. Naar verwachting ontvang je met je top 5 posities hierdoor minder ‘algemeen’ verkeer, maar tegelijkertijd wel meer relevant verkeer. Het werd al steeds belangrijker om met jouw SEO strategie te richten op relevantie en rekening te houden met de zoekintentie. Maar doordat Google al gelijk antwoord gaat geven met de informatie die hij tot zijn beschikking heeft, zal de kwaliteit van content nog belangrijker worden. Al met al zal de focus daarmee van het verhogen van het organisch verkeer verschuiven naar het inspelen op relevant organisch verkeer.
+
+Voordelen van Generatieve AI voor SEO
+Generatieve AI brengt binnen SEO naast veranderingen, ook juist kansen met zich mee. Wanneer je op de juiste manier optimaliseert, zul je juist de vruchten kunnen gaan plukken van deze ingrijpende ontwikkeling.
+
+Verbeterde zoekresultaten
+Met Generatieve SEO worden zoekresultaten steeds relevanter en uitgebreider. Door gebruik te maken van Genaretive AI kunnen zoekmachines sneller en nauwkeuriger antwoorden genereren op complexe vragen. Dit betekent dat gebruikers direct de informatie krijgen waarnaar ze op zoek zijn, zonder dat ze verder hoeven te zoeken. Wanneer je in deze nieuwe vorm van zoekresultaten voorkomt, neemt je zichtbaarheid toe en vergroot het de kans dat potentiële klanten jouw website bezoeken en actie ondernemen. Je wordt genoodzaakt om je content zo goed mogelijk te laten aansluiten op de zoekopdrachten. Dit zorgt ervoor dat de zoekresultaten worden verbeterd en relevanter zijn aan de zoekopdracht.
+
+Verhoging in relevante website gebruikers
+Generatieve SEO kan ervoor zorgen dat je met jouw website beter op de zoekintentie inspeelt, waardoor je aan een groter aantal relevante gebruikers vertoond wordt. De gebruikers komen dan op één van je relevante pagina’s terecht. Dus dankzij de verbeterde zoekresultaten worden je webpagina’s getoond aan een doelgroep die specifiek geïnteresseerd is in de inhoud die je aanbiedt. Dit betekent dat je een doelgerichter publiek bereikt.
+
+Hogere conversiepercentage
+Dan als laatste en misschien wel een van de belangrijkste voordelen van Generatieve SEO is het hogere conversiepercentage. Doordat Generatieve SEO gerichte gebruikers aantrekt die al op zoek zijn naar specifieke producten of diensten, is de kans groter dat ze overgaan tot actie op je website. Dit kan gaan om het invullen van een contactformulier, het maken van een aankoop of het inschrijven voor een nieuwsbrief. De kwaliteit van het verkeer dat je ontvangt via Generatieve SEO is hoger, wat leidt tot een verhoogd conversiepercentage en uiteindelijk tot meer succes voor je bedrijf.
+
+Voorbereiden op Generatieve SEO 
+Het is dan ook zeer belangrijk om je website op deze aankomende ontwikkeling voor te bereiden. Ons advies is dan ook om alvast te beginnen met het aanpassen van je SEO strategie, zodat je een voorsprong hebt en het maximale uit Generatieve SEO kunt halen. Hieronder bespreken we enkele belangrijke punten die je kunt optimaliseren om je website voor Generatieve SEO klaar te stomen.
+
+Generatieve SEO optimalisaties
+Om succesvol te zijn in Generatieve SEO, is het essentieel om je strategie aan te passen naar de verandering in zoekgedrag. Een van de belangrijkste aspecten van Generatieve SEO is het begrijpen van de manier waarop generatieve AI zoekresultaten genereert en hoe je hierop kunt inspelen. Hier zijn enkele punten die je kunt overwegen:
+
+Optimaliseer voor Featured Snippets: Generatieve AI gaat van Featured Snippets gebruikmaken om snel antwoorden aan gebruikers te presenteren. Optimaliseer je content om de kans te vergroten dat je wordt weergegeven door middel van een Featured Snippet.
+Voice search optimalisatie: Met de opkomst van spraak gestuurde zoekopdrachten wordt het belangrijk om je content te optimaliseren voor voice search. Richt je op natuurlijke taal en beantwoord vragen op een conversatie gerichte manier.
+Gebruikerservaring optimalisatie: Zorg ervoor dat je website een goede gebruikerservaring biedt. Richten op E-E-A-T (Experience, Expertise, Authoritativeness and Trust), Snelle laadtijden, mobielvriendelijkheid en een intuïtieve navigatie dragen bij aan een positieve gebruikerservaring, wat de zichtbaarheid en rangschikking van je website kan verbeteren.
+Generatieve SEO focuspunten
+Om deze strategieën toe te passen zijn er verschillende focus punten waar je op moet richten:
+
+Focus op kwalitatieve content: Generatieve AI hecht veel waarde aan kwalitatieve content die beknopt en informatief is. Behoed je hierbij wel van het overmatig gebruik van AI gegenereerde content. Google ziet het knip en plak werk van AI content als niet relevant. Het mist hierbij het menselijk aspect, dus zorg ervoor dat de tekst kwalitatief sterk is en daarbij niet volledig AI geschreven content bevat. Voor de relevantie is het belangrijk dat je antwoord geeft op vraag en daarbij zorgt dat het aansluit van je doelgroep bij de behoeften.
+Optimaliseer voor long-tail keywords: Generatieve AI is goed in het begrijpen van specifieke zoekopdrachten. Richt je op long-tail keywords die gericht zijn op specifieke behoeften en vragen van gebruikers. Voorbeelden van long-tail keywords zijn vragen die nu in de veelgestelde vragen feature van Google worden behandeld. Om elektrische fietsen weer als onderwerp te gebruiken, zie je hieronder voorbeelden van long-tail keywords:
+
+
+Structured data markup: Het toevoegen van structured data aan je website helpt zoekmachines om je content beter te begrijpen. Hierdoor vergroot je de kans om opgenomen te worden in de gegenereerde antwoorden. Hierbij zijn FAQ’s, Reviews en Product structured data zeer belangrijk.
+Als voorbeeld nemen we de veelgestelde vragen die we op de pagina zoekmachine adverteren hebben staan: 
+
+
+Om duidelijk naar Google te communiceren dat dit veelgestelde vragen zijn, is de volgende JSON-LD FAQ-structured data ingediend:
+
+Conclusie / Recap
+De impact van generatieve AI op SEO is behoorlijk groot, maar dat betekent niet dat SEO overbodig wordt. Naar verwachting worden zoekmachines juist relevanter en bieden ze nieuwe kansen voor SEO marketeers om zich te onderscheiden. Door hoogwaardige content te maken en te optimaliseren voor de nieuwe manier van zoeken, kunnen marketeers profiteren van de voordelen van Generatieve AI.
+
+Generatieve AI creëert ook verschillende voordelen voor SEO. Denk hierbij aan betere zoekresultaten, meer relevante website gebruikers en een hoger conversiepercentage. Het is belangrijk voor SEO marketeers om zich voor te bereiden op deze ontwikkeling. Hierbij is ons advies om te focussen op kwalitatieve content, optimalisatie voor long-tail keywords en het gebruik van structured data markup. 
+
+Kortom, het is een kans om de zoekervaring te verbeteren en relevante gebruikers met een sterkere koopintentie aan te trekken. Door je voor te bereiden op generatieve SEO, kun je als SEO marketeer een voorsprong nemen en profiteren van de voordelen die deze ontwikkeling met zich meebrengt.
+
+Wil jij deze voorsprong opbouwen met behulp van MvH Media? Neem dan contact met ons op en besteed jouw SEO uit bij MvH Media!

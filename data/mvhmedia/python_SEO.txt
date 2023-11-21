@@ -1,0 +1,339 @@
+Python SEO: de basics vanaf 0
+
+Zoekmachine Optimalisatie
+Door Antoine Kruis
+Gepost mei 19, 2023
+Leestijd: 13 minuten
+Python SEO: iedere marketeer die een interesse heeft in SEO en weleens een internationale lezing heeft gevolgd, kan haast niet om de mogelijkheden van Python heen. Als je echter nog nooit hebt geprogrammeerd en met Python vanaf nul moet beginnen, dan kan dit al snel voelen als een ver-van-mijn-bedshow. Toch is het zonde om al deze adviezen in de wind te slaan en er niet aan te beginnen. Wanneer je Python juist weet in te zetten, kan je namelijk jouw SEO-werkzaamheden flink verkorten.  Zodat je meer tijd hebt om jouw aandacht te besteden aan andere zaken. Dit is niet alleen makkelijk, maar zal je ook helpen om extra snel online te kunnen groeien. Zo kan je met Python:
+
+Veranderingen op jouw pagina’s of robots.txt monitoren;
+Zoekwoorden clusteren;
+Bulk exports maken middels API’s;
+Scrapes maken van jouw pagina’s of resultatenpagina’s van Google;
+En (veel) meer!
+Dit is dan ook de reden dat we met deze blog dieper ingaan op Python en hoe je hiermee vanaf 0 kan beginnen. In deze blog geven we je alle ins-en outs over Phython en alle mogelijkheden. Vervolgens loodsen we je door het installatieproces zodat je je eerste bestand kan uitdraaien met behulp van onze favoriete scripts.
+
+Wat is Python?
+Python is een programmeertaal en zelfs de populairste programmeertaal van de wereld. Een programmeertaal kan worden gebruikt om met de computer te communiceren. Via Python kan je jouw computer een tal van verschillende taken laten uitvoeren, van het bouwen en draaien van websites tot het uitvoeren van data-analyses, automatisering en het bouwen van natuurkundige modellen: er is weinig waar deze taal niet voor geschikt is. Om deze reden staat Python ook bekend als een general-purpose language. Dit betekent dat de programmeertaal voor veel verschillende applicaties kan worden ingezet, waaronder SEO. Wanneer je alleen volledig nieuw bent met programmeertalen, Dan zul je waarschijnlijk weinig begrijpen van al deze verschillende codes. Toch is Python een van de makkelijkste en meest duidelijke talen om te leren. Daarnaast is de gemiddelde online marketeer wel bekend met opmaaktalen, zoals: HTML, CSS en zeker Javascript. Wanneer jij bij deze groep hoort, dan zul je waarschijnlijk wel al een beetje feeling hebben wanneer je met deze taal aan de slag gaat
+
+De mogelijkheden van Python voor SEO
+We zijn er in het vorige kopje al overheen gevolgen, maar Python heeft dus een tal aan verschillende mogelijkheden. Als marketeer zal je echter weinig aan de verschillende mogelijkheden  hebben om er wiskundige en natuurkundige modellen mee te bouwen, we zoomen daarom alleen in op de mogelijkheden om jouw werkzaamheden als marketeer zo makkelijk mogelijk te maken. De meest gebruikte (en meest handige) opties voor SEO, zijn om Python te gebruiken om je werkzaamheden te automatiseren en data analyses uit te voeren. Door bijvoorbeeld jouw wekelijkse repetitieve werkzaamheden te automatiseren, kan je met één druk op de knop verschillende werkzaamheden door jouw computer laten uitvoeren, waardoor je jouw tijd aan belangrijkere zaken kan besteden. Daarnaast zorgt een sterke data analyse voor extra inzichten in voornamelijk grote websites. Python is daarom erg geschikt om tijdswinst te maken en inzichten te geven als input om jouw SEO strategie mee te sturen.
+
+De mogelijkheden om te beginnen met Python
+Python is dus een programmeertaal. Net als andere talen heb je echter een tool nodig om hiermee te kunnen communiceren. Bij een normale taal is dit bijvoorbeeld middels een boek of jouw stem, maar bij een programmeertaal werkt dit toch iets anders. Voordat we overgaan op hoe we Python kunnen gebruiken, willen we aangeven dat er veel verschillende opties zijn om met Python te communiceren met ieder zijn voor en nadelen. Veel gebruikte opties zijn:
+
+Visual Studio Code
+Voordelen
+
+Krachtige code-editor met vele handige functies zoals syntax highlighting, code-autocompletion, debugging en Git-integratie.
+Uitgebreide extensies voor Python-ontwikkeling, zoals Jupyter Notebook-ondersteuning en geïntegreerde terminal.
+Kan worden aangepast aan de individuele behoeften en workflow van de ontwikkelaar.
+Nadelen
+
+Vereist meer handmatige configuratie en installatie van Python-gerelateerde extensies in vergelijking met de andere tools.
+Minder gericht op data-analyse-functionaliteit en meer op algemene code-ontwikkeling.
+Google Colab
+Voordelen
+
+Cloudgebaseerde omgeving waarmee Python-code direct in de browser kan worden uitgevoerd zonder enige lokale installatie.
+Biedt gratis toegang tot hardwarebronnen, zoals GPU’s en TPU’s, zodat je de berekeningen niet lokaal hoeft uit te voeren. (aan te raden voor zwakke lokale systemen)
+Ondersteunt Jupyter Notebooks, waardoor interactieve en documentatiegerichte data-analyse mogelijk is.
+Nadelen
+
+Vereist meer handmatige configuratie en installatie van Python-gerelateerde extensies in vergelijking met de andere tools.
+Minder gericht op data-analyse-functionaliteit en meer op algemene code-ontwikkeling.
+Jupyter Notebook
+Voordelen
+
+Interactieve omgeving voor data-analyse met ondersteuning voor live code, tekst, afbeeldingen en visuele weergave van resultaten.
+Populair in de data-analysegemeenschap vanwege de mogelijkheid om code, resultaten en documentatie in één enkel document te combineren.
+Ondersteunt een breed scala aan programmeertalen naast Python.
+Nadelen
+
+Interactieve omgeving voor data-analyse met ondersteuning voor live code, tekst, afbeeldingen en visuele weergave van resultaten.
+Populair in de data-analysegemeenschap vanwege de mogelijkheid om code, resultaten en documentatie in één enkel document te combineren.
+Ondersteunt een breed scala aan programmeertalen naast Python.
+Spyder
+Voordelen
+
+Speciaal ontworpen voor wetenschappelijke berekeningen en data-analyse met een geïntegreerde IPython-console, variabele inspectie en plotten.
+Beschikt over een overzichtelijke interface met handige tools voor data-analyse, zoals variabeleninspectie en plotten.
+Ondersteunt ook andere populaire talen voor wetenschappelijke berekeningen, zoals R.
+Nadelen
+
+Minder krachtige code-editor in vergelijking met standalone code-editors zoals Visual Studio Code.
+Minder uitgebreide extensies en community in vergelijking met sommige andere tools.
+We snappen dat het voor een beginner nog lastig is om met bovenstaande voor- en nadelen een keuze te maken. In deze blog focussen we ons op het gebruik van Python in combinatie met Anaconda en Jupyter Notebook. Weet echter dat er ook andere mogelijkheden zijn om met Python te werken.
+
+Het installeren van Python
+We zullen voor de voorbeelden in deze blog dus gebruik maken van Jupyter Notebook in combinatie met Anaconda. Waar we echter mee moeten beginnen is de installatie van Python zelf. Op een iOS wordt deze automatisch meegeleverd. Toch is het ook in dit geval goed om alle stappen te volgen zodat je de laatste versie van de programmeertaal op jouw systeem hebt staan. Laten we beginnen:
+
+Installatie van Python
+Voordat we overgaan op installatie, kijken we eerst welke versie van Python op ons systeem staat. Dit kunnen we doen door de opdrachtenprompt op jouw PC te openen. Dit doe je door naar de zoekbalk te gaan en opdrachtenprompt in te typen. Open vervolgens het programma.
+
+In deze prompt willen we zien welke versie we van Python draaien. Dit doen we door de prompt in te vullen: python –version. Klik vervolgens op Enter. Wanneer je dit hebt gedaan, dan zie je het onderstaande scherm:
+
+
+Wanneer Python niet is gevonden, of je hebt een oude versie geïnstalleerd, dan moeten we eerst de nieuwste versie van Python op de PC zetten, voordat we door kunnen. Dit doen we vanaf de officiële website van Python: https://www.python.org/downloads/. Download vervolgens de nieuwste versie via deze button:
+
+
+Wanneer deze klaar is met downloaden, dan kan je de download openen om verder te gaan met het installatie proces. Dit is vrij straight forward, maar je moet een paar opties aanvinken om de installatie juist te voltooien.
+
+Let bij het installeren er goed op of je systeem op 32-bit draait of op 64-bit. Wanneer je dit niet weet dan kan je het beste de 64-bit versie downloaden. Dit is de standaard versie waar de meeste systemen op draaien. Wanneer jouw systeem op 32-bit draait, dan kan je onder de download knop jouw besturingssysteem aanklikken, waarna je vervolgens een scherm met links waar ook de 32-bit versie voor jouw besturingssysteem tussenstaat.
+
+Wanneer je met de setup begint, dan is het belangrijk om Python niet gelijk te installeren. Er zijn namelijk verschillende opties die we moeten aanklikken, om scripts te kunnen draaien. In het eerste menu moeten we dan ook Add python.exe to PATH aanvinken, voordat we verder gaan met de installatie.
+
+
+Klik vervolgens door op de Customize installation. We krijgen nu verschillende optionele features. Deze kan je voor nu allemaal aangevinkt laten en op Next klikken. We komen nu in het volgende venster terecht.
+
+
+Ook hier kan je alle opties aangevinkt laten. Wat we wel willen veranderen, is de installatielocatie. Deze willen we zo dicht mogelijk bij de root van het systeem houden. Zoals je in de afbeelding ziet, wordt de installatie nu diep van de root geïnstalleerd. We halen daarom de gehele mappen structuur eruit zodat het path er als volgt uitziet:
+
+
+We kunnen nu op install klikken om Python op jouw systeem te zetten. Je kan testen of dit goed is gegaan door dezelfde prompt te draaien welke we voor de installatie hebben uitgevoerd. Op dit moment moet de prompt een andere reactie geven en dat is dat deze de laatste versie van Python teruggeeft. Dit ziet er als volgt uit:
+
+
+Dit betekent dat Python juist is geïnstalleerd op jouw PC. Krijg je toch nog terug dat Python niet wordt gevonden? Verwijder het programma dan van jouw PC en kijk goed of je alle stappen juist hebt doorlopen.
+
+Installeren van Anaconda
+Super, we hebben nu Anaconda geïnstalleerd, maar kunnen nu eigenlijk nog niks. Om te kunnen programmeren en scripts hebben we daarom Jupiter Notebook nodig. Om ons leven gemakkelijker te maken, installeren we daarvoor eerst Anaconda.
+
+Anaconda is te downloaden vanaf de volgende URL: https://www.anaconda.com/. Je kan vanaf de homepage gelijk op downloaden overgaan. Wanneer je op Windows draait dan kan je op de groene button klikken. Voor iOS en Linux heb je de knop eronder nodig:
+
+
+Run vervolgens de installatie. Je kan hier de opties tijdens de installatie lezen, maar als je niet weet wat dit betekent, dan kan je op elk venster doorklikken tot en met het Install venster. Je kan ook hier direct op install klikken, waarna Anaconda op jouw systeem wordt geïnstalleerd. Wanneer de installatie is afgerond, dan kan je doorklikken en krijg je in het laatste venster nog de optie om wat documentatie te lezen. Hier ben je uiteraard vrij in, maar voor nu gaan we direct verder met de installatie van JupyterNotebook.
+
+Installatie van JupyterNotebook
+We hebben nu Anaconda geïnstalleerd en het handige hiervan is, dat we vanuit Anaconda direct Jupyter Notebook kunnen installeren. We doen dit vanuit de prompt van Ananaconda. We openen de prompt van Anaconda, door in onze verkenner naar Ananconda te zoeken. Het prompt scherm van Anaconda ziet er vergelijkbaar uit met de Command prompt van Windows.
+
+Om Jypter Notebook te installeren, voeren we direct de volgende prompt uit in dit venster.
+
+pip3 install jupyter
+Je zal na het op invullen van de prompt en het indrukken van de Enter knop, zien dat de installatie wordt uitgevoerd. Wacht totdat deze klaar is. Om Jupyter Notebook te openen. Kan je direct hierna de volgende prompt opgeven:
+
+jupyter notebook
+Als alle installaties juist zijn uitgevoerd, dan moet nu in jouw browser een venster worden geopend waarop Jupyter Notebook zal gaan beginnen met draaien. We kunnen nu door naar het echte werk!
+
+Hoe te werken in Jupyter Notebook
+Wanneer je Python opstart, dan wordt er een nieuw tabblad in jouw browser geopend, waarop het programma gaat draaien. Het eerste scherm waar je op uitkomt, ziet er als volgt uit (zonder de omlijnde onderdelen met cijfers):
+
+Onder de eerste omlijning kan je wisselen tussen de verschillende tabbladen. Het eerste tabblad bevat de verschillende bestanden welke je op jouw pc of laptop hebt staan. Je kan hier ook wisselen naar tabbladen waarin jouw lopende bestanden te vinden zijn en de cluster tab kan voor parallel computing worden gebruikt, hier gaan we in de basics alleen nog niet verder op in.
+
+De tweede omlijning is te gebruiken om een nieuw bestand te uploaden of een nieuw bestand aan te maken. Wanneer je daarom bestanden moet uploaden (voor de scripts later in het artikel) of een nieuwe script wilt gebruiken, dan kan dat via hier.
+
+De derde omlijning bevat alle bestanden die je al hebt aangemaakt of geüpload. Deze kan je gemakkelijk openen door op het betreffende bestand te klikken.
+Het draaien van jouw eerste script
+Om jouw eerste script te draaien, maken we eerst een nieuw bestand aan via new > Python 3 (ipykernel).
+
+Je komt nu in een scherm terecht waarin een tekstregel staat om scripts te schrijven, als verschillende opties in de menubalk.
+
+Voor nu is het belangrijk om te weten, dat wanneer je een scripts wilt schrijven of plakken, je dit via de volgende balk kan toevoegen:
+
+
+We beginnen met een makkelijk voorbeeld waarbij we een pagina van een zelf gekozen website scrapen. In dit voorbeeld scrapen we de televisies pagina van Expert. Het script begint met het importeren van de juiste libraries. Een Python library is een verzameling van vooraf geschreven code en functionaliteiten die ontwikkelaars kunnen gebruiken om bepaalde taken en functies gemakkelijker uit te voeren in Python-programma’s. Er zijn erg veel van deze libraries en dit is een van de sterke kanten van Python. De library die we inladen om te scapen is cloudscraper. Vervolgens wordt deze data geanalyseerd door BeautifulSoup. Deze twee libraries zal je vaak tegenkomen wanneer je scripts gaat gebruiken of zelf bouwen in Python waarbij je pagina’s gaat scrapen.
+
+Wie echter gebruik maakt van tools ScreamingFrog of SEO Minion, zal de meerwaarde van het onderstaande script wellicht niet inzien. Dit is vanuit ons dan ook een simpel voorbeeld om uit te leggen hoe scripts werken. Is het gelukt, dan zal je ook uit de onderstaande scripts moeten komen.
+
+import cloudscraper
+from bs4 import BeautifulSoup
+
+scraper = cloudscraper.create_scraper()
+
+# hier vul je jouw gewenste URL in, wij gebruiken nu die van Expert
+html = scraper.get("https://www.expert.nl/televisies")
+
+soup = BeautifulSoup(html.text)
+We houden de scrape vervolgens simpel door alleen de metatitel als metadescriptie te scrapen. Hiervoor gebruiken we de volgende code
+
+metatitle = (soup.find('title')).get_text()
+metadescription = soup.find('meta',attrs={'name':'description'})["content"]
+Vervolgens willen we ook de scrape data als output inzichtelijk krijgen. Hiervoor gebruiken we een simpel stukje code die er als volgt uitziet:
+
+print("Meta Title:", metatitle)
+print("Meta Description:", metadescription)
+Het volledige script zal er vervolgens zo uitzien:
+
+import cloudscraper
+from bs4 import BeautifulSoup
+
+scraper = cloudscraper.create_scraper()
+
+html = scraper.get("https://www.expert.nl/televisies")
+soup = BeautifulSoup(html.text)
+
+metatitle = (soup.find('title')).get_text()
+metadescription = soup.find('meta',attrs={'name':'description'})["content"]
+
+print("Meta Title:", metatitle)
+print("Meta Description:", metadescription)
+Wanneer we deze invullen in het eerder benoemde kladblok in Jupyter Notebook, dan krijgen we de volgende output:
+
+Meta Title: TV Kopen? Elke Televisie Snel & Gratis Thuisbezorgd | Expert.nlMeta Description: Nieuwe tv kopen? Bij Expert vind je een groot assortiment televisies, zodat je altijd vindt wat je zoekt. En elke tv koop je bij Expert met gratis verzending!
+
+Krijg je errorcodes dat de library niet kan worden geïmporteerd? Dan dien je deze nog te installeren. Dit kan in de anaconda prompt door pip install in te typen gevolgd door de betreffende library. Op deze manier moet je de bovenstaande prompt ook kunnen uitdraaien voor een jouw gekozen pagina.
+
+In het volgende gedeelte, gaan we namelijk in op scripts die een mooie meerwaarde kunnen zijn voor jouw SEO-strategie.
+
+Voorbeelden van handige scripts als SEO’er
+Voor de volgende oplossingen, maken we gebruik van enkele handige scripts die een meerwaarde kunnen zijn voor elke SEO’er, online marketeer tot allround marketeer die zijn organische vindbaarheid serieus neemt. We beginnen met een script dat zoekwoorden kan clusteren in topic clusters. Op deze manier kan je gemakkelijker jouw pagina’s opbouwen en deze intern naar elkaar laten linken.
+
+Zoekwoorden clusteren in topic clusters
+Nieuwe pagina’s en interne links zijn belangrijk voor iedere website. Wanneer je jouw website flink in aantal pagina’s en zoekwoorden wilt laten groeien, dan is de eerste stap een sterk zoekwoordenonderzoek. Om deze zoekwoorden te laten clusteren in zogeheten topic clusters, kunnen we een script gebruiken. Het script (vanuit John McAlpin) wat we hiervoor gebruiken ziet er als volgt uit:
+
+import csv
+import numpy as np
+from sklearn.cluster import AffinityPropagation
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+# Read keywords from text file
+with open("keywords.txt", "r") as f:
+    keywords = f.read().splitlines()
+
+# Create a Tf-idf representation of the keywords
+vectorizer = TfidfVectorizer()
+X = vectorizer.fit_transform(keywords)
+
+# Perform Affinity Propagation clustering
+af = AffinityPropagation().fit(X)
+cluster_centers_indices = af.cluster_centers_indices_
+labels = af.labels_
+
+# Get the number of clusters found
+n_clusters = len(cluster_centers_indices)
+
+# Write the clusters to a csv file
+with open("clusters.csv", "w", newline="") as f:
+    writer = csv.writer(f)
+    writer.writerow(["Cluster", "Keyword"])
+    for i in range(n_clusters):
+        cluster_keywords = [keywords[j] for j in range(len(labels)) if labels[j] == i]
+        if cluster_keywords:
+            for keyword in cluster_keywords:
+                writer.writerow([i, keyword])
+        else:
+            writer.writerow([i, ""])
+Om dit script werkend te krijgen, zal je eerst een TXT bestand moeten importeren in jouw files waarin alle keywords te vinden zijn, die jij wilt clusteren. Voor elk keyword gebruik je een nieuwe regel in jouw tekstbestand. Wanneer dit af is, noem je dit bestand: keywords.txt. Deze upload je bij de files in jouw Jupyter Notebook.
+
+We hebben als voorbeeld keywords uitgedraaid omtrent fietsen en voornamelijk elektrische fietsen. Deze keywords hebben we in een TXT bestand verwerkt (via kladblok), geüpload en uitgedraaid. De input hiervan is hieronder te vinden:
+
+
+De zoekwoorden staan per cijfer, geclusterd. Dit CSV bestand kan je ook terugvinden in je files van Jupyter Notebook. Deze kan je in Jupyter Notebook openen, maar ook downloaden en openen in Excel of een Google Spreadsheet.
+
+ 
+
+Bulk import van Google Trends data
+Het volgende script komt uit onze eigen koker. Iedereen die wel eens Google Trends data voor meerdere zoekwoorden wilde inzien, heeft gemerkt dat dit in een webbrowser enorm veel tijd kan kosten. Gelukkig is er onderstaand script waarbij jij middels een CSV bestand al jouw zoekwoorden kan aanleveren en het script al jouw zoekwoorden weer teruggeeft, maar dan voorziet van alle Google Trends data.
+
+Het script ziet er als volgt uit:
+
+from pytrends.request import TrendReq
+import pandas as pd
+import time
+
+pytrends = TrendReq(hl='nl', tz=120)
+
+# Lees de keywords vanuit het CSV-bestand
+keywords_df = pd.read_csv('keywords.csv')
+kw_list = keywords_df['Keywords'].tolist()
+
+# Aantal zoekwoorden per batch
+batch_size = 5
+
+# Splits de zoekwoorden in batches
+batched_kw_list = [kw_list[i:i+batch_size] for i in range(0, len(kw_list), batch_size)]
+
+# Haal gegevens op voor elke batch
+batch_data = [pytrends.build_payload(batch, cat=0, timeframe='today 12-m') or pytrends.interest_over_time().reset_index() for batch in batched_kw_list]
+
+# Combineer de gegevens van alle batches
+combined_data = pd.concat(batch_data)
+
+# Selecteer alleen de zoekwoorden die daadwerkelijk beschikbaar zijn in de gegevens
+available_keywords = list(set(combined_data.columns) - {'date'})
+kw_list = [kw for kw in kw_list if kw in available_keywords]
+
+# Verwijder de 'isPartial'-kolom uit de gegevens
+combined_data = combined_data.drop(columns=['isPartial'])
+
+# Transponeer de gegevens
+transposed_data = combined_data.set_index('date').T.reset_index()
+
+# Hernoem de kolomkop 'index' naar 'Keywords'
+transposed_data = transposed_data.rename(columns={'index': 'Keywords'})
+
+# Sla de gecombineerde en getransponeerde gegevens op naar een CSV-bestand
+transposed_data.to_csv('output.csv', index=False)
+Per # staat er aangegeven wat de onderstaande code precies doet. Wanneer je hierin niet bent onderlegd, dan is het enige wat je hoeft te doen een CSV bestand in je files te plaatsen met één kolom genaamd Keywords (dit is hoofletter gevoelig) waarin je al je zoekwoorden plakt waarvan je de Google Trends data wilt weten. Vervolgens plak je het script in Jupiter Notebook, zoals we eerder hebben gedaan, en voer je deze uit. Wanneer deze is afgerond, krijg je een CSV bestand tussen jouw files te zien genaamd output.csv. Dit bestand kan je vervolgens gebruiken om bijvoorbeeld toe te voegen aan je content roadmap of grafieken mee te maken.
+
+Robots.txt veranderingen bijhouden
+Iedereen die een beetje onderlegd is in SEO weet het belang van een robots.txt, maar ook de catastrofale gevolgen die het op jouw SEO resultaten kan hebben wanneer belangrijke pagina’s worden uitgesloten. Een extra controle op jouw bestand is daarom geen overbodige luxe. Onder het mom van liever lui, dan moe (en het natuurlijk een erg hersen dodend werk is dit zelf dagelijks te doen) kunnen we ook een script schrijven die aangeeft of er veranderingen in jouw robots.txt zijn gemaakt. We gebruiken in dit voorbeeld hiervoor het volgende script:
+
+import requests
+import hashlib
+import time
+
+def log_check_result(result, log_file):
+    with open(log_file, 'a') as file:
+        file.write(result)
+
+def check_robots_txt(url, previous_hash, log_file):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        current_hash = hashlib.sha256(response.text.encode('utf-8')).hexdigest()
+        if current_hash != previous_hash:
+            result = f"{time.ctime()}: Er is een wijziging gedetecteerd in robots.txt.\n"
+            log_check_result(result, log_file)
+            print("Er is een wijziging gedetecteerd. Een melding is verzonden.")
+        else:
+            result = f"{time.ctime()}: Geen wijzigingen gedetecteerd in robots.txt.\n"
+            log_check_result(result, log_file)
+            print("Geen wijzigingen gedetecteerd.")
+        return current_hash
+    except requests.exceptions.RequestException as e:
+        result = f"{time.ctime()}: Fout bij het controleren van robots.txt: {e}\n"
+        log_check_result(result, log_file)
+        print(f"Fout bij het controleren van robots.txt: {e}")
+        return previous_hash
+
+# URL van de robots.txt die je wilt controleren
+url = "https://www.mvhmedia.nl/robots.txt"
+
+# Eerdere hashwaarde van robots.txt
+previous_hash = None
+
+# Logbestand voor resultaten
+log_file = "robots_check_log.txt"
+
+# Controle loop dagelijks
+while True:
+    previous_hash = check_robots_txt(url, previous_hash, log_file)
+    # Wacht 24 uur voordat de volgende controle wordt uitgevoerd
+    time.sleep(24 * 60 * 60)
+In het geval van dit script, wordt er dagelijks een log gemaakt en dit log wordt verwerkt in een text bestand genaamd: robots_check_log.txt. Het script doet dit voor dit moment voor de robots.txt van onze eigen MvH Media website, maar deze kan je uiteraard veranderen naar je eigen website.
+
+Het leuke aan dit script is, dat deze vrij basic is, maar je zelf aan de slag kan gaan er echt iets handigs van te maken. Op dit moment moet het bestand waar het script in staat namelijk draaien om de check te kunnen uitvoeren. Aangezien je zelf niet elke ochtend het script aan wilt zetten, zijn er diverse oplossingen waardoor jij deze eenmalig aan hoeft te zetten en het script de rest doet.
+
+Heb je dan ook geen zin om elke keer naar het log bestand te gaan, maar wil je gewoon een dagelijkse e-mail ontvangen of er wel of geen veranderingen zijn gemaakt? Ook dat is mogelijk door het script uit te breiden. Deze oplossingen zijn meer voor een advanced artikel, maar weet dus dat er diverse opties zijn en dat je het script zo kan aanpassen, zodat deze perfect bij jouw wensen aansluit. Wanneer je benieuwd bent hoe je dit kan dan, dan geven we onderstaand al diverse tips om een kickstart te maken.
+
+Het zelf opstellen van scripts: onze tips
+Het gebruiken van andermans scripts is erg handig en het is ook een goede manier om zelf een basis te hebben wanneer je aan de slag gaat met jouw website. Wil je echter meer uit Python halen, dan is het aan te raden om ook zelf aan de slag te gaan met het schrijven van scripts en scripts uit te bouwen, totdat ze perfect aan jouw wensen voldoen. Je hebt hierin diverse opties om te starten, die we graag uitlichten.
+
+Programmeren met AI
+Het werken met Python gaat eigenlijk al in op het principe: waarom moeilijk doen, als het makkelijk kan. Wanneer je gebruik gaat maken van AI voor het bouwen van scripts, dan gaat dit principe zeker op. AI-chatbots zijn namelijk jouw persoonlijke assistent als het aankomt op het bouwen van scripts. Wil je daarom een makkelijk script bouwen, maar geen idee waar je moet beginnen? AI-chatbots staan voor je klaar. Heb je een script die naar jouw idee echt moet werken, maar je blijft errors krijgen? Wellicht is de hulp van een AI-chatbot alles wat je nodig hebt om deze werkend te krijgen. Zeker wanneer je al enige kennis hebt van programmeren, dan kan je ChatGPT het meeste werk laten doen, terwijl jij gaat testen en sturing geeft. Ben je volledig nieuw met Python als programmeertaal. Dan raden we aan om eerst de basics te leren, voordat je gaat starten met het schrijven van je eigen scripts.
+
+
+Zelf leren programmeren
+Wanneer je echt goede scripts wilt maken, dan kan je er niet om heen om zelf te leren programmeren. Als SEO- of online marketeer hoef je in de meeste gevallen geen senior programmeur te zijn, maar kan je met de basics al een eind komen. Er is hiervoor eigenlijk geen sterke cursus puur gericht op SEO, maar er zijn wel diverse andere algemene cursussen die jou de basics bijbrengen, welke je vervolgens kan toepassen op jouw scripts gericht op SEO. Enkele van onze aanraders zijn:
+
+Official Python Tutorial
+Python Crash Course
+Automate The Boring Stuff
+MOOC 2022
+Hoe verder te gaan met Python voor SEO
+Python is ontzettend groot en er is geen blog die alle mogelijkheden kan laten zien. Wanneer je daarom geïnteresseerd bent om Python binnen jouw strategie toe te passen, dan is het zeker aan te raden de basics van Python te leren en zelf aan de slag te gaan met het schrijven van scripts. Ons advies is wel om te kijken naar hoe groot jouw website is. Heb je enkele honderden pagina’s op jouw website? Dan is het negen van de tien keer sneller om gebruik te maken van de vele beschikbare tools, zoals ScreamingFrog met Excel, om jouw SEO inzichten binnen te krijgen. Wanneer je echter marketeer bent van een grote e-commerce website met vele duizenden producten, dan kan Python zeker jouw werkzaamheden flink versnellen, nieuwe inzichten geven en het saaie werk automatiseren. Zo houd je meer tijd over voor de SEO werkzaamheden die echt een menselijk inzicht nodig heeft en jij je meerwaarde als marketeer kan geven.
+
+Advanced Python oplossingen voor jouw SEO-strategie
+Heb je door deze blog de meerwaarde van Python voor jouw bedrijf ontdekt? Bij MvH Media hebben we de expertise in huis om middels Python jouw SEO data gedreven te maken en je snel en overzichtelijk inzage te geven in de data die voor jouw groei belangrijk is. Op deze manier heb je niet alleen een voorsprong op jouw concurrenten wat betreft de snelheid in jouw SEO werkzaamheden, maar ook op het gebied van de data die jij tot je beschikking hebt.
+
+Neem daarom vooral contact met ons op en zo zorgen we ervoor dat jij van jouw online concurrenten kan winnen middels de nieuwste technologische oplossingen en mogelijkheden.

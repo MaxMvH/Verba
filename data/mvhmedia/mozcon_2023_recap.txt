@@ -1,0 +1,331 @@
+MozCon 2023 – Recap
+
+Zoekmachine Optimalisatie
+Door MvH Media
+Gepost augustus 21, 2023
+Leestijd: 12 minuten
+Afgelopen 7 & 8 augustus zijn collega’s Nicky, Vincent en Stijn namens MvH Media afgereisd naar Seattle om MozCon 2023 bij te wonen. Na 22 presentaties bijgewoond te hebben over SEO, hebben we hier de meest nuttige presentaties en inzichten voor jullie samengevat. 
+
+Why SEOs Need to Start Playing Offense Instead of Defense
+– Chris Long
+
+Deze sessie is vooral gericht op het onderscheidend denken over SEO. Dat komt net name doordat onze branche overladen is met tools, data, veranderingen in de vorm van algoritmes, etc. Dat maakt het erg lastig om prioriteit te bepalen. En zorgt het er met name voor dat we reactief reageren op deze veranderingen. In deze presentatie zijn er praktische voorbeelden gegeven over hoe je van reactieve SEO, naar proac tieve SEO gaat.
+
+Er zijn tal van voorbeelden te noemen over defensieve SEO:
+
+Het reageren op algoritmes
+Errors in Google Search Console fixen
+Alles fixen wat ScreamingFrog ons aangeeft qua errors en warnings
+Het checken van een to-do-list van een developer aan de website
+In plaats daarvan zou je offensieve SEO moeten spelen. Daar zijn wat praktische voorbeelden voor gegeven.
+
+Identify new content:
+
+Een keyword gap tussen twee websites is eigenlijk een vorm van defensieve SEO. Feitelijk loop je achter je concurrent aan of kijk je waar zij in de buurt komen.
+In plaats daarvan kun je beter achterhalen welke zoekwoorden er allemaal bij een bepaald topic horen (onderwerp). Daar kun je de zoekvolumes cumulatief van bij elkaar optellen + je kunt een Traffic Uplift berekenen.
+Choosing which pages to optimize:
+
+Kijken welke pagina’s dalen qua verkeer in Analytics is een vorm van defensieve SEO.
+In plaats daarvan kun je beter kijken welke pagina’s voor omzet zorgen. Deze pagina’s zijn met een reguliere expressie in Google Search Console te koppelen aan de juiste zoekwoorden. Vanuit die gedachte val je de markt aan op zoekwoorden die voor jou bewezen hebben omzet op te leveren.
+Technical SEO Prioritization:
+
+Een van de life-struggles van een SEO-specialist is om technische implementaties door te laten voeren door een developer. Vaak ligt het hier aan de communicatie en het brengen waarom je een optimalisatie wilt doorvoeren.
+
+Google Search Console Errors fixen is géén SEO-strategie. Dit is defensieve SEO
+Praat in percentages om offensief te spelen. Hoeveel procent van de totale pagina’s wordt geïnfecteerd met issues? Een groot percentage (40% van alle pagina’s) geeft aan dat het van invloed is op een groot gedeelte van de website. Zeer hoge prioriteit dus. Deze aantallen zijn ook te halen uit de Dekkingsrapporten van Google Search Console.
+Get Data for Initiatives:
+
+Niet alleen bij Technische SEO werkt het aantonen met data, maar ook in je algehele SEO-aanbevelingen.
+
+Aangeven dat je interne links nodig hebt is een vorm van defensieve SEO. Het geeft geen rede
+Aantonen dat als wanneer je geen interne links toevoegt, je op een gehele sectie een X aantal aan omzet misloopt, is een vorm van offensieve SEO.
+Dit zijn wat praktische voorbeelden hoe je niet en hoe je wel SEO moet benaderen. Uiteraard is er vrijwel geen presentatie compleet zonder AI / ChatGPT. Daarvoor werden ook wat praktische voorbeelden gegeven:
+
+Laat ChatGPT je zoekwoorden uitbreiden. Geef een lijst met zoekwoorden en laat ChatGPT een tabel genereren onder welk Topic dit zoekwoord valt. Of welke zoekintentie het zoekwoord heeft. Zo kun je je keyword-data gemakkelijk verrijken.
+ChatGPT kan grote stukken tekst voor je analyseren en samenvatten. Geen zin om grote blogberichten te lezen? Prima, laat ChatGPT dat voor je doen en je de samenvatting geven. Tip van MvH Media: gebruik daarvoor de Webpilot Plugin.
+The Evolution of Content & the Future of Our Industry
+– Ross Simmonds
+
+Met Ross namen we een kijkje vooruit waar SEO naar toe gaat. Met ontwikkelingen zoals ChatGPT en AI zijn we in een nieuwe fase van SEO gekomen. Mensen maken zich zorgen om hun banen, budgetten die ingekort worden etc. Maar hoe kan je deze technologische ontwikkelingen nu voor je laten werken? Ross Simmons: Challenge Your Beliefs. Embrace Experiments. 
+
+Om mee te kunnen in de snelheid van AI heeft hij een framework opgezet: Content Growth Framework. Dit framwork is opgedeeld in 4 fases.
+
+Research	Create	Distribute	Optimize
+Keyword Research
+Long Form Blog Posts
+Backlink Outreach
+Content
+
+Social Research
+Short Form Blog Posts
+Facebook Groups
+Content Refresh
+Audience Research
+Social Media Content
+LinkedIn Groups
+Data Updates
+Community Research
+Research Assets
+PR Outreach
+Link Updates
+Competitive Research
+Presentations
+Sponsorships
+On-Site SEO
+SERP Research
+Video Content
+Newsletters
+Off-Site SEO
+Backlink Research
+Infographics
+YouTube
+Local SEO
+Social Share Research
+Webinars
+Reddit
+Graphics
+Twitter
+Quizzes
+Sales
+Experimenteer in al deze  fases met tools als ChatGPT. Ze kunnen je werk namelijk ook sneller en efficienter maken. Gebruik het bijvoorbeeld om een analyse te maken. “welke backlinks hebben wij nog niet die concurrent X” al wel gebruikt. Je kan daarna sneller actie ondernemen omdat het uitzoeken al voor je gedaan is.  
+
+Ook AI geschreven content kan goed bijdragen aan jouw SEO resultaten en heeft de mogelijkheid om te ranken. De ‘basics’ van goede content gelden namelijk ook voor AI gegenereerde content. Hou daarom altijd deze vuitsregels voorogen.  
+
+Educate your audience to build trust. 
+Entertain your audience to build connection. 
+Engage your audience to build community. 
+Empower your audience to build a tribe. 
+Maar gebruik AI niet alleen voor tekstuele content. Ook afbeeldingen en video’s kunnen gemaakt worden door ChatGPT (met integraties van andere tools). Zorg dat deze andere type content aansluiten bij de boodschap die je wil vertellen.  
+
+En heb daar vooral een lange adom voor! Stel hypotheses op wat je denkt te kunnen bereiken. Challenge jezelf daarin en ga het experiment aan! 
+
+Lower Your Shields: The Borg Are Here
+– Dr. Pete Meyers
+
+Deze – ietwat humoristische – presentatie, ging over de status en de impact van AI in Google. En dan met name Google SGE: Search Generative Experience. Het praten met Google.  
+
+De grootste vraag die gesteld is: gaat AI ervoor zorgen SEO gekilled wordt?
+
+De presentatie is met name gericht naar de huidige status van Generative AI en SGE binnen Google. Deze feature is momenteel enkel beschikbaar in de United States.
+
+AI is namelijk goed én slecht in bepaalde dingen.
+
+Eerst wordt er ingegaan op wat Generative AI is en waar het slecht in is. Feit blijft dat Generative AI, zoals een ChatGPT of Google Bard, één woord per keer voorspellen. Grootste risico hieraan is hallucinatie, ofwel, onwaarheden.
+
+Google’s Search Generative Experience hallucineert ook. Bij de vraag hoeveel smaken Dr. Pepper heeft, noemt Google alle smaken op, om vervolgens te zeggen dat deze top secret zijn.
+
+Maar Generative AI is ook goed in dingen. En dat ligt hem niet zozeer op de feiten, maar meer op inspiratie. Een zoekopdracht als ‘wat kan ik voor lunch maken met de ingredienten avocado, aardappel en jack daniels’ leent zich prima voor Google Search Experience (of ChatGPT).
+
+Ook zoekopdrachten als ‘hoe kan ik trainen voor een marathon van 42 km?’ is soms beter om door Generative AI beantwoord te krijgen dan door een regulier Google-resultaat (zoals een video). Je krijgt daarmee een prima stappenplan.
+
+Search en Chat zijn twee verschillende dingen. Je gebruikt Chat voor andere zoekopdrachten dan dat je Search gebruikt. Dit is onder te verdelen in Factual zoekwoorden, Fluid zoekwoorden en de combinatie die ertussen zit: Fluid zoekwoorden.  
+
+Factual Zoekwoorden:
+
+Factual zoekwoorden verwijzen naar zoekopdrachten die gericht zijn op het verkrijgen van specifieke, objectieve informatie. Deze zoekwoorden hebben tot doel om feitelijke feiten, gegevens of definities te vinden.
+
+Voorbeelden:
+
+“Google Analytics”
+“Koop een laptop”
+“Waar staat AI voor?”
+Deze zoekopdrachten hebben een duidelijk afgebakend doel: ze willen feitelijke informatie krijgen, zoals het begrijpen van de term “AI” of het vinden van de beste laptop om te kopen.
+
+Fusion Zoekwoorden:
+
+Fusion zoekwoorden verwijzen naar zoekopdrachten waarbij verschillende concepten worden gecombineerd om verbanden te vinden of inzichten te ontdekken.
+
+Voorbeelden:
+
+“Hoe stel ik GA4 in?”
+“Wat zijn de belangrijkste AI-trends?”
+“CNET’s beste laptopkeuzes in 2023”
+Deze zoekopdrachten gaan verder dan eenvoudig feitelijke informatie opvragen. Ze proberen verbanden te leggen tussen verschillende onderwerpen, zoals het opzetten van GA4 (wat technische en strategische stappen kan inhouden), het begrijpen van huidige AI-trends en het raadplegen van bronnen voor laptopaanbevelingen.
+
+Fluid Zoekwoorden:
+
+Fluid zoekwoorden verwijzen naar zoekopdrachten die open en verkennend van aard zijn. Deze zoekwoorden hebben geen vastgesteld doel en kunnen verschillende onderwerpen en richtingen verkennen.
+
+Voorbeelden:
+
+“Help me explore this GA4 data to find my best-performing topics”
+“How can I best use generative AI to automate these tasks?”
+“What should I consider when buying a laptop for my home office?”
+Deze zoekopdrachten zijn flexibel en verkennend. Ze laten ruimte voor verschillende benaderingen en informatie, zoals het verkennen van het gebruik van generatieve AI, het begrijpen van overwegingen bij het kopen van een laptop en het ontdekken van effectieve manieren om GA4-gegevens te analyseren.
+
+SEO gaat nergens heen. Het blijft aanwezig zijn op de zoekopdrachten die de gebruiker intypt.
+
+"In this brave new world of AI search, remember one thing: SEO isn't about pleasing algorithms, it's about anticipating humanity."
+
+Dr. Pete Meyers
+Mind the Gap: Bridging Generational Differences in SEO
+– Jes Scholz
+
+Jes heeft het in deze inspirerende presentatie over de verschuiving van Google, van een search engine, naar een heel ecosysteem waarbij Google zich getransformeerd heeft tot social netwerk, online shop, nieuwsnetwerk etc.
+
+Te vaak worden webpagina’s geoptimaliseerd voor ranking in plaats van voor lezers. Hierdoor is Google overspoeld met een zee van gelijkheid. Google is door de jaren heen echter sterk veranderd, zoals blijkt uit de voorbeelden die Jes geeft in haar presentatie. Het is niet langer slechts een zoekmachine. Er hebben zich drie fundamentele verschuivingen voorgedaan: antwoorden zijn veranderd in klantreizen, zoekopdrachten zijn veranderd in zoekopdrachten zonder specifieke vragen (query refinement), en er is een verschuiving geweest van tekst naar visuals.
+
+Google heeft zich ontwikkeld tot een sociaal netwerk, zoals blijkt uit de voorbeelden die Jess laat zien van YouTube en webverhalen, het volgen van bekendheden, onderwerpen via knowledge panels, en de Discover-feed. Maar Google is daarnaast ook een online winkel geworden. Ze vervangt e-commercewebsites, zoals blijkt uit de shoppable afbeeldingen en het gebruik van de shopable google lens. Google domineert de e-commerce SERP’s en vervangt lokale bedrijfswebsites en informatieve sites.
+
+Jess laat een overzicht zien van het ecosysteem van Google, waaruit blijkt hoe dominant Google overal aanwezig is. Google Search is hier slechts een klein onderdeel van. Google verandert het conversiepad en bereikt mensen voordat ze moeten zoeken. Google zorgt dat haar bezoekers niet meer weggaan en converteren binnen haar ecosysteem. Webpagina’s zijn niet langer het product, content is het product. Verdeel je content daarom over Google ‘s ecosysteem om meer zichtbaarheid te krijgen. Baseer je resultaat echter niet alleen op wat je in analytics ziet. Analytics-gegevens zijn misleidend omdat alles onder organisch wordt geschaald en veel verkeer wordt geschaald als direct/none, en off-site waarde wordt niet meegerekend. De conclusie is dat het rapporteren van alleen ‘google / organic’ verkeer de waarde van je SEO-strategieën onderschat. De oplossing is een marketing datawarehouse!
+
+We optimaliseren geen websites meer, want Google is verder ontwikkeld dan URL-rankingfactoren. Een belangrijk onderdeel van je merk is de knowledge graph, laat Jes duidelijk naar voren komen. De knowledge graph verbindt en contextualiseert alle dingen. Een Knowledge Graph werkt met bepaalde entiteiten (onderwerpen). Google kan dit concept dan duidelijk identificeren. Deze entiteiten hebben ook verbanden met elkaar en zijn gelinkt. Deze ‘verbanden’ beschrijven de relaties tussen de entiteiten. Door met schemaorg dit soort verbanden en entiteiten duidelijk te maken en te verbinden aan elkaar, helpt Google om de betekenis achter zoekopdrachten te begrijpen, wat meer relevante resultaten voor zoekers betekent. Is jouw merk een bekende entiteit in de knowledge graphs? Zo niet, dan ben je niet bekend bij Google. Zorg dus dat je bevriend met Google wordt en Google alles van je weet. Hoe beter jullie vriendschap, hoe meer Google je website en de informatie die je verstrekt dus vertrouwt. EN dit heeft natuurlijk weer positieve invloed op je ranking. Haar advies is dus ook om zo’n merkentiteit in de knowledge graph aan te maken, je merkentiteitsbio te definiëren en je entiteit te markeren met markup en minimaal 30 connecties met Google hebben. Wordt vrienden met Google in de knowledge graph, maak verbindingen met zoveel mogelijk Google kanalen en wordt een echte BRANDFLUENCER!
+
+Google’s Just Not That into You: Intent Switches During Core Updates
+– Lily Ray
+
+Meerdere keren per jaar voert Google een grote update door in het algoritme van de zoekmachine. De welbekende core updates. Lily Ray nam ons in deze presentatie mee wat de gevolgen kunnen zijn van een core update en hoe hier mee om te gaan. Google gebruikt de feedback van ruim 16.000 ‘search quality evaluators’. De feedback van deze quality raters wordt onder andere gebruikt om het algoritme te verbeteren. Google weegt continue de rankingsfactoren af, voegt nieuwe toe of verwijderd bepaalde signalen. 
+
+Maar wat kan er verandern er nu precies bij een core update: 
+
+Kwaliteit van de website wordt minder goed beoordeeld 
+Agressieve advertenties die de usability van de website beinvloeden 
+Thin or duplicate content 
+Doorway pages (veel voorkomend bij locatiepagina’s waar geen locatie gevestigd is) 
+Het gebrek aan EEAT content op de pagina.  
+Slechte kwaliteit backlinks 
+Te ‘salesy’ op een YMYL website (financiële dienstverlening, zorgwebsites etc.)   
+2.       Verandering in gebruikersgedrag 
+Door verandering in gebruikersgedrag kan het zijn dat jouw zoekwoord niet meer relevant (genoeg) is om voor te blijven optimaliseren. Dit kan allerlei redenen hebben die soms ook buiten je macht liggen. Ga op een data-driven methode aan de slag om SEO nog steeds rendabel te houden. Gebruik bijvoorbeeld de PPC data om te zien welke zoektermen goed converteren.
+
+3.       Wereldevenementen & crisissen  
+Google kan de SERP results aanpassen aan de hand van de intentie die mensen dan hebben. Bijvoorbeeld gedurende de corona-crisis is Google e-commerce websites meer gaan belonen omdat consumenten zo veilig producten konden kopen. Informatieve websites zoals bijv. Wikipedia verdwijnen op diverse zoektermen.
+
+4.       Revisie van zoeken 
+Goede voorbeeld hiervan is de medic update (core update)  waarbij Google de kwaliteit, ervaring en betrouwbaarheid (EEAT) van een website meer is gaan belonen voor YMYL onderwerpen. Denk bijvoorbeeld aan informatie over ziektes en medicijnen waarbij blogwebsites weg zijn gevallen uit de rankings en instanties zoals het RIVM beter zijn gaan ranken. Voor je content kan het dus interessant zijn om een quote (met backlink) van een expert aan te halen. 
+
+5.       Relevancy Shifts & QDF
+Een zoekterm kan door ontwikkelingen een andere betekenis krijgen. Een goed voorbeeld is de zoekterm “barbie” wanneer we hier nu op zoeken krijgen we veel info over de nieuwe film. Een jaar geleden zouden we e-commerce platformen krijgen om de plastic poppen te kopen. 
+
+6.       Intentie wisseling 
+Gebruikersgedrag kan de doorslag geven en intentieverschuivingen veroorzaken. Intentieverschuivingen komen vaak voortijdens core update. Google kan bepalen dat zoekwoord een nieuwe “intentie”  vereist en past daar de rankings op aan.
+Bijvoorbeeld tijdens corona waar op een term als “conference room” het platform Zoom veel beter ging ranken en alle fysieke locaties hun rankings verloren.  
+
+Maar hoe moet je nu reageren op een core update?
+Denk niet alleen in tekstuele content, meer interne links en meer linkbuilding. Ga achterhalen wat er tijdens de core update veranderd is. Wat voor type content presteert er nu goed. Zijn er andere features in de SERP te zien? Pas daar je strategie op aan. Denk hier ook aan Video, afbeeldingen, reels, podcast, knowledge graphs etc. Zorg voor content (in brede zin) dat voldoet aan alle mogelijke intenties die Google gebruikt op jouw zoekopdrachten. 
+
+Own Search: Work Outside of the Google Box
+– Carrie Rose
+
+Dat we als SEO specialisten in een snel veranderende wereld zitten, mag geen geheim zijn. Niet alleen de wereld van Google verandert, ook zoekgedrag verandert. De SERPs veranderen. Mensen beginnen buiten Google met zoeken. Hoe ziet zo’n Customer Journey eruit en hoe ga je hiermee om?
+
+Soms kan het voorkomen dat je als SEO-specialist na jarenlang hard werken de marktleiderspositie bekleed. Maar als je vervolgens gaat analyseren wat dat met het verkeer doet, kun je dalingen zien, idem met conversies. Dan kan het voorkomen dat je klanten bezoekers / klanten verliest in de Overwegingsfase (Consideration Stage).
+
+Waarom?
+
+“Brands are seeing search volumes decline. And it's not always because demand is declining, they're just now searching on other channels”
+
+Carrie Rose
+De traditionele funnel gaat van Awareness naar Consideration en daarna Conversion. Oftwel, van Branding (Awareness en Consideration) naar Performance (Conversion).
+
+Dit is een belangrijke. Klanten kunnen namelijk anders zoeken. Een voorbeeld is het zoekwoord Lodges in the UK. Deze heeft 15.000 monthly views op TikTok en ‘maar’ 11.000 monthly searches op Google. Ze zoeken op andere kanalen.
+
+TikTok en Google gaan hand in hand. Doordat bepaalde onderwerpen op TikTok ‘gepusht’ worden, kan het zijn dat zoekvolume in Google omhoog gaat. In Nederland zien we dat bijvoorbeeld ook met recepten.
+
+Dat is het spel tussen Drive Demand (vraag beinvloeden) en Capture Demand (vastleggen van de vraag). Voor Demand zijn kanalen als Advertising of TikTok, influencers, branding en PR prima. Voor Capturing zit je meer in het SEO-vlak. Je bent er zodra iemand zoekt. 
+
+"In advertising they push brands or products not knowing if its something customers want, but we work in search, we know exactly what people want"
+
+Carrie Rose
+Als SEO’er kun je dat beinvloeden. Maar dat gaat soms verkeerd. Als voorbeeld Zara. Door PR-campagnes over de Zara Pink Jeans, is het zoekvolume gestegen met +112% op pink jeans (zonder Zara). Echter, rankt Zara niet zichtbaar op die term… terwijl ze wel het zoekvolume bepalen / beïnvloeden. Mensen willen een roze broek door Zara, maar koopt hem vermoedelijk niet bij Zara. Ze kunnen het niet vinden in Google.
+
+De andere kant kan ook. De case die werd gedeeld is als volgt:
+
+Bepaal welke zoekwoorden / topics je op nummer 1 rankt (bijvoorbeeld wrap tops)
+Maak een lijst met influencers op Social en laat ze dit product dragen
+Je wordt opgepakt door PR omdat het relevant is
+Resultaat is meer zoekvolume op TikTok én Google, gratis links door PR, meer volgers, meer traffic naar je PDP’s en een stijging in traffic. Hoewel het op een PR-campagne lijkt, is het allemaal door SEO gedreven.
+
+Probleem momenteel is dat we achter Google aanlopen, terwijl Google juist achter gebruikers aanzit. Op andere platformen wordt er namelijk meer gezocht dan Google voor sommige topics:
+
++200% groei op Pinterest voor festival outfit. Op Google slechts +3% groei
+Zoekvolume op lingerie daalt in Google, maar stijgt op Instagram en TikTok
+Idem voor Tuinmeubelen
+"We need to spend our marketing budget, where our customers are spending their time".
+
+Carrie Rose
+Is Google dan dying? Absoluut niet. Het zoekgedrag op Google wordt namelijk beïnvloed door platformen als Instagram, TikTok en Pinterest. Vanuit daar gaan ze naar Google, om een deepdive te maken op de producten die ze zoeken. Zoals Perpectives.
+
+Waar de doelgroep zoekt, is afhankelijk van topic en zelfs keyword. Zowel Glimpse als Exploding Topic zijn hiervoor geschikte tools.
+
+Nogmaals: is SEO dying? Nee, want Google stimuleert zelfs Short Video’s in SERP. Daarvoor kun je ook optimaliseren. Het versterkt zoekgedrag op platformen, allebei de kanten op.
+
+"We work in search, we know exactly what people want"
+
+Carrie Rose
+Beyond the Written Word: Future-Proofing Your Content Strategy by Leveraging Multimedia Formats
+– Azeem Ahmad
+
+Azeem nam is in een korte pitch mee hoe we als marketeers verder moeten denken dan alleen in content. We willen te veel meten en heel veel content creëren in heel weinig tijd. Daarbij verliezen we het oog op de ROI van SEO. Het creëren van content in de vorm van blogs etc. is onvoldoende om met de ontwikkelingen op SEO gebied mee te gaan. Daarom werkt hij met het “BBA framework”. Basic – Better – Advanced. Vanaf de basis naar advanced toewerken. En Google Analytics 4 gaat ons daar bij helpen. 
+
+Basic: Onderwerp X presteert het best. Daarom bouwen we ons framework.
+Better: UA data laat zien dat het langste pad maarliefst 9 touchpoints heeft
+Advanced: We hebben onze 5 markten uitgesplitst en hebben nu beter inzichtelijk welk land de voorkeur geeft aan tekstuele content, audio of video etc.  
+
+Analyseer je data verder op engagement en op conversies om de ROI ook goed inzichtelijk te krijgen. Hoe ver scrollen bezoekers naar beneden op een pagina? Hoe lang kijken ze een video? Je moet weten waar je de boodschap die je wilt vertellen moet laten terugkopen.  
+
+Daarmee kom je in een spel tussen betrouwbaarheid en performance. De heilige graal is een hoge betrouwbaarheid en een hoge performance. Dit kost heel veel tijd om te bereiken.  
+
+Een lage betrouwbaarheid maar een hoge performance werkt vaak maar een korte periode. Belangrijkste is om aan betrouwbaarheid te werken om op de lange termijn ook van de performance te profiteren.  
+
+Daarbij is het belangrijk om het vertrouwen te winnen. Geef veel informatie vrij. Niet alleen in de vorm van tekst maar ook in instructievideo’s, podcast, afbeeldingen etc.
+
+En maak het persoonlijk. Deel je eigen ervaringen om het tastbaarder voor de consument te maken. 
+
+The SERP Is Dead, Long Live the SERP
+– Tom Capper
+
+In zijn presentatie werpt Tom Capper een interessant licht op de huidige en toekomstige staat van SEO. Al jarenlang wordt er geroepen dat SEO ‘dood’ is, maar keer op keer weerlegt de markt deze beweringen met een gestage groei. Capper benadrukt dat ook nu, met de opkomst van SGE’s (AI), Google en SEO niet in gevaar komen.
+
+Hij begint met een terugblik op de geschiedenis van SEO en hoe critici altijd hebben beweerd dat SEO zijn einde nadert. Deze beweringen gaan terug tot een artikel uit 2007 in The Vault. Door de jaren heen zijn er verschillende argumenten geweest voor de ‘dood’ van SEO, zoals advertenties die SEO verdringen, knowledge graphs die SEO overbodig maken, en zelfs dat SEO Google zou doden door originele bronnen te outranken. De opkomst van zero-click searches, waarbij Google verkeer ‘steelt’ en gebruikers binnen de SERP houdt, werd ook gezien als een bedreiging voor SEO. Echter, Google reageerde in 2021 op deze discussies door te stellen dat er een misvatting is over ‘hoe mensen zoeken’ en dat het allemaal te maken heeft met zoekintentie.
+
+Capper gaat verder in op het gedrag van SERPs. Er komen steeds meer features die ervoor zorgen dat je niet meer naar een website hoeft door te klikken. Niet voor alle zoekopdrachten is dit nodig, zoals bijv. bij vragen naar ‘de beste thee merken’, ‘vluchten naar Seattle’, ‘het weer’ of ‘bekende personen’. Desondanks alle ‘SEO killing’ en SERP-veranderingen, is de SEO-industrie groter dan ooit, zoals blijkt uit de groeiende markt van SEO-tools.
+
+Hij duikt vervolgens dieper in op de motieven van Google. Er zijn veel zoekopdrachten waarvoor je geen website hoeft te bezoeken, dus het is logisch dat Google je niet altijd doorstuurt naar een website. Google hecht veel waarde aan de ervaring van de zoeker, omdat hun bedrijfsmodel daarvan afhankelijk is. Na 2016 zijn er steeds meer algoritme-updates geweest, om gebruikers te behouden én concurrentievoordeel te behouden. Dit hoeft zeker niet negatief te zijn; wat goed is voor zoekmachines is ook goed voor SEO’ers. Echter in veel gevallen (zoekopdrachten) zijn er betere tools dan een zoekmachine; denk aan ChatGPT. Het doel van Google is om de huidige gebruikers te behouden en niet om beter te zijn dan ChatGPT.
+
+Maar hoe ver kan de SERP nog ‘buigen’ voordat deze breekt? Dus met andere woorden, hoeveel kan Google zich nog aanpassen? Tom heeft een aantal experimenten gedaan. Als Google AI zou implementeren, zou dit niet goed werken voor Google om verschillende redenen. Zo neemt AI veel te veel ruimte in en de organische resultaten worden minder zichtbaar. Hij laat ook enkele statistieken zien. SGE SERPs (search generative experience; stukken tekst bovenaan de pagina welke een vroege stap zijn in het aanpassen van de zoekervaring met AI) worden nu al minder dan een derde vertoont, de vertoningen dalen aanzienlijk. De vraag is, of dit is om kosten te besparen, dit levert Google namelijk niks op! Verdere testen wijzen uit dat de links in de SGE niet blijken voor te komen in de top 100 van de organische zoekresultaten. SGE-ranking verschijnt niet om in de organische zoekresultaten te komen. De ‘Ask a follow-up’ blijkt overeen te komen met een ‘people also ask’ snippet. Maps worden ook in beide getoond. Dit laat zien dat SGE met haast is gemaakt en uitgerold. Daarnaast is slechts 30% van de SGE SERPs gemaakt om geld te verdienen en de advertenties worden nooit in de SGE zelf getoond maar naar beneden gedrukt. Dit kan niet veel commerciële waarde voor Google hebben. Er zijn grenzen aan een levensvatbare Google-server; het moet legaal zijn, gebruiksvriendelijk en commercieel. Vervolgens maakte Google weer een verschuiving naar het uitlinken van websites, zelfs meer dan de reguliere SERP. Google is dus heel erg zoekende. Net zoals web search niet altijd het juiste antwoord geeft, doet AI dit ook niet.
+
+Conclusie: SGEs kunnen niet op grote schaal worden uitgerold, dit is nadelig voor Google. ChatGPT is totaal anders dan Google. Het is een specialistische tool en zal nooit een vervanger zijn van algemeen zoeken. SGEs kunnen niet in hun huidige vorm worden uitgerold omdat ze vaak niet voldoen aan de zoekintentie. Google was gedwongen door investeerders en concurrentie om te reageren op ChatGPT en Bing, daarom is SGE uitgerold. We hoeven geen drastische veranderingen van de SERP te verwachten, maar SEO’ers moeten zeker leren werken met de nieuwe ontwikkelingen en er zoveel mogelijk gebruik van maken. De kansen die nu en in de toekomst belangrijk blijven zijn gerelateerde zoekopdrachten, PAA’s, video’s, carrousels, afbeeldingen, local listings en Google Shopping. Net zoals web search niet altijd het juiste antwoord geeft, doet AI dit ook niet. Google blijft zichzelf trainen en veranderen om wel het goede antwoord te geven. Maar voor nu is het nog niet wat het moet zijn.
+
+The Great Reset
+– Wil Reynolds
+
+In deze presentatie zoomt Wil Reynold (founder of Seer Interactive) in op het feit dat we in de SEO industry al jaren te horen krijgen dat SEO ‘dead’ is. Sinds 1997 (de komst van onlien ads) tot en met andere ontwikkelingen in de branche, zoals Voice Search, TikTok en nu uiteraard alle ontwikkelingen omtrent AI en ChatGPT.
+
+Het doel van zijn presentatie was om anders te denken dan dat je concurrentie doet. Iedereen gebruikt dezelfde tools (Ahrefs, SEMrush, etc.), dus iedereen kan dezelfde analyses maken. Hierbij doelt hij ook met name op de kracht van AI.
+
+Voorbeeld 1: 
+
+Wil gaf het voorbeeld over de zoekopdracht over ‘black primary care physician’. Daarbij liet hij voorbeelden zien dat met name Ads-resultaten totaal niet aansluiten op die zoekopdracht. Geen donkere huisartsen op de pagina en Ads in Google voor ‘black primary doctors’ in Harlem (New York), terwijl de zoekopdracht is uitgevoerd in Philadelphia. Dit zorgt voor frictie bij Google’s gebruikers. AI (ChatGPT) kan je helpen om die frictie te voorkomen, door simpelweg te vragen welke afbeeldingen je zou moeten laten zien op een dergelijke landingspagina die bij deze zoekopdracht hoort.
+
+Voorbeeld 2:
+
+Een ander voorbeeld is Google Ads die de homepage tonen op zoekodprachten als ‘does Monday have a desktop app’. Daarbij sluit een homepage uiteraard niet aan. Gebruik Big Data om te achterhalen op welke termen je CPA (Cost Per Acquisition) omhoog gaan. Met N-grams kun je gemakkelijk zien welke delen van een zoekopdracht hoge kosten hebben, vaak door het feit dat de Ad + landingspagina niet aansluit, zoals dit voorbeeld.
+
+Een derde voorbeeld is de zoektocht naar een auto onder de $25K (. Google laat hier vaak lappen tekst zien, waarbij informatie wordt getoond die niet klopt of landingspagina’s waarbij je in carousels belandt en 20+ keer moet doorklikken. Ook staan vaak deze pagina’s omringd met bannering. Dit zorgt voor frictie. Bottom line is dat een platform als ChatGPT prima antwoord kan geven op dit soort zoekopdrachten. Door simpelweg te vragen welke auto’s er zijn onder de $25K en door te vragen op de specificaties die voor jou belangrijk zijn, biedt dit antwoorden die wellicht hallucineren, maar die tot de minste frictie leiden.
+
+Die ontwikkeling is zeer interessant, omdat het zo kan zijn dat een deel van je doelgroep uit Google gaat en ergens anders gaat zoeken, hoogstwaarschijnlijk in ChatGPT. Dit kun je checken doordat je rankings hetzelfde blijven en je conversies, maar het maandelijkse zoekvolume daalt. Hoogstwaarschijnlijk is je doelgroep dan ergens anders aan het zoeken (ChatGPT). Dan is het belangrijk om hypotheses te stellen. De standaard SEO-specialist zou zeggen dat er geen ranktracking is voor ChatGPT. De moderne SEO-specialist trackt dit door alle vragen uit de People Also Ask box te scrapen op keywords met ‘beste / welke / etc.’, deze vragen te stellen aan ChatGPT en het percentage te achterhalen waarin jij als bedrijf wordt getoond. Voor suggesties van zoekwoorden, gebruik ook weer ChatGPT (!).
+
+De kracht van een platform als ChatGPT is oneindig, zolang je de goede vragen en hypotheses stelt. Zonder coding-skills kun je gebruik maken van API’s in een Data Warehouse. ChatGPT doet dat voor je met bepaalde plugins.
+
+Notable & WebPilot zijn plugins die je helpen met coderen of onderzoek voor je kunnen doen. Webpilot in combinatie met ChatGPT kan je helpen om pagina’s te lezen, te beoordelen of ze aansluiten op de query en zelfs om suggesties te geven hoe je pagina eruit moet komen te zien.
+
+ 
+
+Bottom line: gebruik data (uit alle kanalen, bijvoorbeeld Ads) om een goed antwoord te geven voor je potentiële klant en om hoger te ranken in Google. 
+
+"Take an old NO and make it a YES"
+
+Wil Reynolds
+Views on Views of Video SEO
+– Crystal Carter
+
+Crystal Carter, hoofd van SEO van Wix, geeft een presentatie over Video SEO en waarom on-page video SEO verschilt van reguliere SEO. Ze begint met te benadrukken dat gebruikers steeds meer video’s willen omdat ze op zoek zijn naar een rijkere contentervaring.
+
+Met verschillende voorbeelden illustreert Crystal dat gebruikers steeds meer video willen voor de ervaring en beleving van een merk. Sociale mediaformaten worden al weergegeven in Google en Google plaatst YouTube-video’s bovenaan de pagina met keymoments en gerelateerde onderwerpen. Ze wijst erop dat één video op meerdere posities kan ranken op dezelfde SERP. Dit is mogelijk omdat je video’s in Google kunt bekijken voordat je naar YouTube gaat. Google weet dat gebruikers deze content willen en heeft daarom meer tools geïntroduceerd om de prestaties van video’s te meten, zoals GSC video-indexering en GA4 ‘organic video channel’.
+
+De groei van video in de SERP is 45% jaar op jaar. Maar waarom is dat eigenlijk zo? Volgens Crystal is dit te wijten aan de opkomst van TikTok. Dus om antwoord te geven op de vraag waarom on-page video anders is: on-page video helpt Google om strategische doelstellingen te bereiken. En daarom helpt het ook jou om deze strategische doelstellingen te bereiken! Bovendien is het een hybride activiteit.
+
+Crystal vervolgt met enkele tips over hoe je video’s kunt optimaliseren. Ze raadt aan om een bestand van hoge kwaliteit en een hoogwaardige miniatuurafbeelding te gebruiken. Het is ook belangrijk om zoekwoorden in je script op te nemen, omdat Google de woorden die in de video worden gebruikt begrijpt. Het belangrijkste is om te voldoen aan de gebruikersintentie. Ook legt ze uit dat je verschillende soorten content hebt maar dat video’s een 2,5 keer hogere CTR hebben dan andere soorten content.
+
+Tot slot gaat ze in op de verschillende soorten platformen die je kunt gebruiken. Ze adviseert om YouTube te gebruiken en daarop te optimaliseren, van daaruit te linken en daarop ook betrokken te zijn. YouTube lost al veel indexproblemen op, zoals de juiste pixelformaat, ondersteunde formaten, volledige videoschema’s en titelconsistentie. Ze raadt ook aan om chapters met zoekwoorden te gebruiken, deze bij concurrenten te controleren en competitieve zoekwoorden in tags en videotags op te nemen. Door te linken vanuit Google legt Google connecties. Video’s kunnen al binnen 2 uur worden geïndexeerd, dus als je een video op een pagina plaatst, wordt deze ook meteen geïndexeerd. Het is belangrijk om twee onderdelen content met elkaar te verbinden. Op de videowebpagina raadt ze aan om te zorgen voor een goede technische SEO-basis, een transcript op te nemen (in natuurlijke taal), een prominente positie te gebruiken (boven de vouw) en veel interactie met je publiek te hebben (recensies met zoekwoorden in de tekst doen het bijv. goed).

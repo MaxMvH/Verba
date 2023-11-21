@@ -1,0 +1,108 @@
+SEO & Shopify: Alles wat je moet weten
+
+Zoekmachine Optimalisatie
+Door Ilse Zwaans
+Gepost juli 20, 2023
+Leestijd: 5 minuten
+Is Shopify een SEO-vriendelijk platform? Een vraag die op komt als je een eigen Shopify-winkel hebt of overweegt er een te starten. In dit artikel beantwoorden we die vraag en bieden we inzicht in hoe je Shopify kunt gebruiken om je online zichtbaarheid te vergroten. We bespreken de SEO-functies en mogelijkheden van Shopify en delen waardevolle tips. Van het optimaliseren van je productpagina’s tot het implementeren van technische SEO-optimalisaties, we hebben alles in huis om je te helpen slagen.
+
+Shopify populair onder webshopeigenaren
+Voordat we dieper ingaan op de SEO voor- en eventuele nadelen binnen Shopify, duiken we eerst nog in op de algemene pluspunten van platform, om er een paar op te sommen:
+
+Gebruiksvriendelijk: Het platform is door iedereen te gebruiken, ook zonder technische achtergrond is een Shopify webshop gemakkelijk op te zetten en te beheren.
+Snelle opstart: Met Shopify kun je snel van start gaan met je online winkel. Het platform biedt een breed scala aan responsieve sjablonen en thema’s waarmee je de look en feel van je winkel gemakkelijk kunt aanpassen aan je merk en producten.
+Mobielvriendelijkheid: Shopify biedt responsieve thema’s en een mobielvriendelijke interface waardoor je webshop er goed uitziet en optimaal presteert op zowel desktops als mobiele apparaten.
+Betrouwbare hosting en beveiliging: Shopify biedt betrouwbare hosting waardoor je je geen zorgen hoeft te maken over technische aspecten. Het platform zorgt voor de beveiliging van je winkel en klantgegevens, inclusief beveiligde betalingsopties.
+Schaalbaarheid en flexibiliteit: Shopify is geschikt voor zowel kleine start-ups als grote bedrijven. Het platform kan meegroeien met je bedrijf en biedt tal van functies en integraties om aan je specifieke behoeften te voldoen.
+App Store en integraties: Shopify heeft een uitgebreide App Store met duizenden apps en integraties die je kunt gebruiken om de functionaliteit van je webshop uit te breiden. Hierbij kun je denken aan marketingtools, klantenservice-apps en het integreren van je boekhoudsoftware.
+Ontdek de SEO-vriendelijkheid van Shopify
+Het is duidelijk dat Shopify een fijn platform is voor veel webshop eigenaren, maar is het ook SEO-vriendelijk? Zeker weten! Shopify is een SEO-vriendelijk platform dat verschillende tools en functies biedt om je winkel beter vindbaar te maken in de organische zoekresultaten. Het platform biedt veel ingebouwde functionaliteiten en tools die het implementeren van technische SEO-optimalisaties vereenvoudigen. De volgende optimalisaties zijn gemakkelijk door te voeren:
+
+Optimalisatie van metatags:
+Met Shopify kun je de metatags, zoals titel en meta-omschrijving, eenvoudig bewerken. Dat geldt voor zowel de homepagina, categoriepagina’s en productpagina’s. Dit stelt je in staat om unieke en relevante metatags te maken die zoekmachines en gebruikers aanspreken.
+
+
+Content toevoegen en optimaliseren
+Met Shopify kun je gemakkelijk inhoud bewerken en plaatsen. Je kunt teksten opmaken, afbeeldingen en video’s toevoegen en de indeling aanpassen om de gewenste uitstraling en structuur te creëren. Dit geldt op zowel categoriepagina’s als productpagina’s. Dit kan door te navigeren naar de desbetreffende categorie of productpagina.
+
+
+Blogs plaatsen
+Naast het beheren van je online winkel, is het ook mogelijk om blogberichten te plaatsen. Je kunt de blogfunctie gebruiken om artikelen, nieuws, updates en andere inhoud te publiceren die relevant is voor je merk en producten. Hierbij heb je controle over het uiterlijk en de indeling, daarnaast is het ook mogelijk om afbeeldingen, video’s en andere media toe te voegen om de blogberichten aantrekkelijker en informatiever te maken voor je lezers.
+
+
+
+
+Alt-teksten voor afbeeldingen
+Shopify biedt een eenvoudige manier om alt-teksten toe te voegen aan afbeeldingen. Dit helpt zoekmachines begrijpen waar de afbeeldingen over gaan en kan bijdragen aan betere rangschikkingen in afbeeldingszoekopdrachten.
+
+
+Menu aanpassen
+Het menu in Shopify is ook gemakkelijk aan te passen. Je kunt items toevoegen, verwijderen en slepen. Je kunt ook meer geavanceerde functies gebruiken, zoals het maken van submenu’s en het aanpassen van het uiterlijk van het menu met behulp van thema-opties of aangepaste code (indien nodig).
+
+
+
+Snelheidsoptimalisatie
+Shopify heeft ingebouwde caching en CDN (Content Delivery Network), wat helpt bij het verbeteren van de laadsnelheid van je webshop. Bovendien kun je afbeeldingen optimaliseren, onnodige code verwijderen en apps gebruiken om de prestaties van je webshop te verbeteren.
+
+Geïntegreerde XML-sitemaps
+Shopify genereert automatisch een XML-sitemap voor je webshop die zoekmachines helpt bij het ontdekken en indexeren van je pagina’s. Een belangrijk onderdeel ban een betere zichtbaarheid in de zoekresultaten.
+
+Let wel op het volgende
+Ondanks dat Shopify op veel onderdelen erg goed scoort, zijn er nog steeds een paar elementen waar je op moeten letten.
+
+Geen controle over de websitestructuur
+Shopify biedt geen ondersteuning voor het definiëren van hiërarchieën binnen collecties. Als we het hebben over een SEO-vriendelijke websitestructuur, adviseren we als SEO-specialisten vaak het volgende:
+
+Damesschoenen  https://example.com/damesschoenen
+Damessneakers  https://example.com/damesschoenen/damessneakers
+Beige damessneakers  https://example.com/damesschoenen/damessneakers/beige
+Op Shopify werkt dit helaas niet zo en vallen alle categorieën direct achter /collections/
+
+Dat ziet er als volgt uit:
+
+Damesschoenen  https://example.com/collections/damesschoenen
+Damessneakers  https://example.com/collections/damessneakers
+Beige damessneakers  https://example.com/collections/beige-damessneakers
+Weet dat dit geen probleem hoeft te zijn voor je SEO-resultaten. Wanneer alle SEO-elementen op de juiste manier worden opgepakt en de shop beschikt over een sterke interne linkstructuur, is het behalen van topposities nog steeds mogelijk.
+
+Dubbele product URL’s
+Bij veel templates binnen Shopify ontstaan dubbele product URL’s wanneer een product voorkomt in meerdere categorieën. Om een voorbeeld te geven.
+
+De Air Force 1 sneaker valt zowel onder de damesschoenen als de damessneakers categorie. Wanneer je vanuit beide categorieën naar het product klikt, ontstaan de volgende URL’s:
+
+https://example.com/collections/damesschoenen/products/air-force-1
+
+https://example.com/collections/damessneakers/products/air-force-1
+
+Wanneer bovenstaande het geval is en er meerdere URL’s naar hetzelfde product leiden, zal Shopify automatisch een canonical tag toevoegen aan elke pagina. De canonical tag geeft aan welke URL de voorkeursversie is voor dat specifieke product.
+
+De canonical en juiste URL dat Shopify aanmaakt start met /products/.
+
+De juiste URL is in dit geval:
+
+https://example.com/products/air-force-1
+
+Wat hier gebeurt is geen best practise, omdat je consistent de juiste signalen naar zoekmachines moet sturen over welke URL’s ze moeten crawlen en indexeren. Door ze eerst te laten crawlen naar https://example.com/collections/damesschoenen/products/air-force-1 en vervolgens die URL te canoniseren naar https://example.com/products/air-force-1 ontstaat onnodige overhead. Daarbij zorgt het voor veel onnodige URL’s wat ten koste gaat van je crawlbudget.
+
+Gelukkig valt dit gemakkelijk op te lossen waardoor de dubbele URL’s worden verwijdert:
+
+Navigeer binnen Shopify naar Online Store>Themes
+Klik vervolgens op “edit code”
+Selecteer de map “snippets”
+Selecteer “product-grid-item.liquid”
+Pas het volgende aan
+Van: <a href=”{{ product.url | within: current_collection }}” class=”product-grid-item”>
+Naar: <a href=”{{ product.url }}” class=”product-grid-item”>
+
+Standaard Robots.txt bestand
+In Shopify kun je geen directe toegang krijgen tot het robots.txt-bestand. Dit betekent dat je geen directe controle hebt over de inhoud en het Robots.txt bestand dus niet kunt aanpassen.
+
+Shopify biedt wel een standaard robots.txt-bestand dat optimaal is voor de meeste winkels. Het sluit onnodige pagina’s uit en verwijst naar de XML-sitemap.
+
+Aan de slag!
+Shopify is een SEO-vriendelijk platform dat je kan helpen je online zichtbaarheid te vergroten. Het platform is gebruiksvriendelijk en biedt onder andere een snelle opstart en betrouwbare hosting. Je kunt gemakkelijk zelf metatags bewerken, content optimaliseren, blogs plaatsen, alt-teksten toevoegen en nog veel meer.
+
+Er zijn wel enkele aandachtspunten, zoals het ontbreken van controle over de websitestructuur en het ontstaan van dubbele product URL’s, maar met de juiste aanpak biedt Shopify een uitstekend platform om succesvolle online winkels te bouwen.
+
+Toch hulp nodig?
+Onze SEO-specialisten beantwoorden graag al je vragen over je Shopify website of je gehele SEO-strategie. Je kunt hiervoor vrijblijvend contact met ons opnemen.

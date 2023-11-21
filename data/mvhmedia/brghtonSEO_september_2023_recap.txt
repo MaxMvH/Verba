@@ -1,0 +1,225 @@
+BrightonSEO september 2023 – Recap
+
+Zoekmachine Optimalisatie
+Door MvH Media
+Gepost september 29, 2023
+Leestijd: 18 minuten
+Op donderdag 14 en vrijdag 15 september zijn Nick en Rinse namens MvH Media afgereisd naar Brighton (Engeland) voor één van de grootste, zo niet dé grootste, SEO-conferentie ter wereld. Met vijf zalen, 40 lezingen, en 130 sprekers, kan het met recht ‘’The world’s biggest search conference’’ genoemd worden. Meer dan 10.000 bezoekers uit 120 landen komen bijeen om te leren over de nieuwste trends en ontwikkelingen op het gebied van SEO. Het doel van deze conferentie is om online marketeers te helpen elkaar te ontmoeten, te leren en hun werk een beetje beter te doen. De conferentie biedt twee dagen vol lezingen van experts die hun kennis delen op het gebied van SEO Auditing, Keyword Analysis, Tech SEO en nog veel meer. In deze blog geven we een (video) samenvatting van de meest interessante lezingen die wij hebben bijgewoond.
+
+10 quick wins to improve your rankings (using Ahrefs)
+– Andrei Tit
+
+De lezing van Andrei Țiț was gericht op welke SEO optimalisaties op korte termijn voor de meeste Return on Investment (ROI) zorgen. Hierbij gaf hij 10 quick wins die je binnen Ahrefs kunt analyseren om een snelle ROI in je SEO resultaten te kunnen realiseren. In de video benoem ik degene die ik het meest relevant vond, maar hieronder zijn alle 10 Quick wins die je uit het Oppurtunities report van Ahrefs kunt halen:
+
+Optimaliseer bestaande pagina’s met laaghangend fruit zoekwoorden: Begin met het onderzoeken van zoekwoorden die al enige ranking hebben maar nog niet in de top 10 staan. Door deze ‘laaghangende vruchten’ te optimaliseren, kun je snel resultaten zien zonder veel extra werk.
+Zoek naar Featured Snippets kansen: Featured snippets zijn korte antwoorden die bovenaan de zoekresultaten van Google verschijnen. Door je content te structureren in een vraag-en-antwoord formaat of als stappenplannen, kun je de kans vergroten dat jouw content als Snippet wordt weergegeven. Door vaker in de Featured Snippets te recht te komen verhoog je de kans dat er mensen door klikken naar je website. Niet alleen omdat je bovenaan staat, maar ook omdat je informatie door zowel Google als de zoeker als belangrijk en relevant wordt gezien
+Heroptimaliseer pagina’s met dalend verkeer: Identificeren welke pagina’s de afgelopen 6 maanden over een daling in verkeer hebben ervaren. Dit kun je doen door het Top Pages rapport te gebruiken. Filter op een periode van de afgelopen 6 maanden met daarbij dalend verkeer en duik hierbij dieper in data waarbij je de oorzaak kan achterhalen. Dan prioriteer deze pagina’s gericht op je doelstelling die met je klant hebt of intern is vastgesteld. Door de pagina’s op de gevonden oorzaken te optimaliseren zullen deze dalende pagina’s in stijgende pagina’s resulteren.
+Ontdek de Content Gaps (1.0 beschikbaar, 2.0 extra pricing): Door de content van je concurrenten te analyseren, kun je ontdekken welke onderwerpen of zoekwoorden je mogelijk hebt gemist. Ahrefs biedt tools om deze ‘contentgaten’ te identificeren, zodat je kunt werken aan het vullen van deze lacunes.
+Blaas oude pagina’s nieuw leven in: Oude content kan nog steeds waardevol zijn. Overweeg om verouderde artikelen te updaten met nieuwe informatie, afbeeldingen of onderzoek en publiceer ze opnieuw om hun zichtbaarheid te vergroten.
+Pas redirects toe: Kapotte links kunnen je SEO schaden. Binnen dit report kan je zowel de externe backlinks als interne links analyseren welke over een 404 status code beschikt. Hiervoor gebruik je best by links report om deze links te identificeren en kun je overwegen redirects naar relevante, werkende pagina’s in te stellen.
+Versterk interne links (extra pricing): Een goede interne linkstructuur kan helpen om de autoriteit van je website te versterken. Ahrefs kan suggesties geven voor waardevolle interne links, waardoor je de gebruikerservaring en SEO kunt verbeteren.
+Zoek naar linkgaten: Backlinks zijn cruciaal voor SEO. Met het link intersect report kun je zien welke waardevolle links je concurrenten hebben die jij mogelijk mist. Hier kun je vervolgens de overweging maken in het verkrijgen van vergelijkbare links voor je eigen site.
+Converteer merkvermeldingen naar links (extra pricing): Als je merk ergens wordt genoemd zonder een link naar je website, is dat een gemiste kans. Ahrefs kan je helpen deze ongelinkte vermeldingen te vinden, zodat je de eigenaren van die sites kunt benaderen voor een link.
+Los Kritieke SEO-Problemen Op (extra pricing): Tot slot, geen enkele SEO-strategie is compleet zonder technische optimalisatie. Gebruik Ahrefs om technische problemen op je website te identificeren en op te lossen.
+Kort samengevat
+Door de bovenstaande stappen te volgen en de kracht van Ahrefs te benutten, ben je goed op weg om je online zichtbaarheid te vergroten. Als tip geef ik je mee om deze quick wins wel toe te passen op je SEO doelstelling.
+
+Link naar slide:
+https://speakerdeck.com/andreitit/10-quick-wins-to-improve-your-rankings-using-ahrefs
+
+How To Tackle Keyword Cannibalisation & Dominate the SERPs
+– Charlie Whitworth
+
+Charlie Whitworth gaf zijn presentatie over het onderwerp ‘Keyword Cannibalisation’. Deze term verwijst naar het fenomeen waarbij URL’s op hetzelfde domein concurreren voor organische non-branded rankings, oftewel Keyword Cannibalisation. In de presentatie licht hij toe wat het inhoud, waarom het belangrijk is om tegen te gaan en het allerbelangrijkste, hoe je het tegen gaat.
+
+Wat is Keyword Kannibalisatie?
+Keyword kannibalisatie schetst de situatie waarbij URL’s van hetzelfde domein concurreren voor organische non-branded rankings. Doordat er volgens de zoekmachines 2 of meerdere url’s voor een non-branded zoekwoord relevant kan zijn, creëert dat verwarring bij zoekmachines en leidt tot fluctuaties in de zoekresultaten. Het gevolg hiervan is een vermindering van de zichtbaarheid en prestaties van alle betrokken pagina’s, wat jouw algehele SEO-prestaties kan belemmeren.
+
+Waarom is het belangrijk?
+Het concept van keyword kannibalisatie is niet nieuw, maar het belang ervan is de afgelopen jaren toegenomen. Een van de redenen hiervoor is de toename van content op het web. Vóór 2011 waren de SERPs (zoekmachine resultaten pagina’s) niet optimaal. Echter, na de introductie van de Panda-update door Google, werd de term “content is king” populair. Deze update leidde tot een obsessie met het creëren van content, vaak zonder rekening te houden met de zoekintentie van gebruikers. Dit resulteerde in een oververzadiging van content op het web, wat op zijn beurt leidde tot keyword kannibalisatie.
+
+Hoe los je Keyword Kannibalisatie op?
+Het oplossen van keyword kannibalisatie vereist een grondige analyse van je website en de content daarop. Hier zijn enkele stappen die je kunt volgen:
+
+Site Search & SERP Analyse: Begin met een site search om te begrijpen welke pagina’s op je website concurreren voor dezelfde keywords. Gebruik tools zoals SEO Minion om de SERPs te downloaden en handmatig te beoordelen.
+Gebruik van tools: Er zijn verschillende tools beschikbaar, zoals Ahrefs en Sistrix, die je kunnen helpen bij het identificeren van keyword kannibalisatie op je website. Echter, het is belangrijk om deze tools met de nodige voorzichtigheid te gebruiken.
+Content audit: Voer een content audit uit om dubbele, vergelijkbare of dunne URL’s te identificeren. Verwijder of herschrijf deze pagina’s om keyword kannibalisatie te voorkomen.
+Keyword clustering: Cluster je keywords om te begrijpen welke termen vaak samen worden gezocht. Optimaliseer je content voor deze clusters in plaats van individuele keywords.
+Focus op zoekintentie: Zorg ervoor dat je content overeenkomt met de zoekintentie van gebruikers. Dit betekent dat je verschillende soorten content moet hebben voor verschillende soorten zoekopdrachten.
+Kort samengevat
+Het aanpakken van keyword kannibalisatie is essentieel voor een succesvolle SEO-strategie. Door de bovenstaande stappen te volgen, kun je de zichtbaarheid en prestaties van je website verbeteren en een dominante positie innemen in de zoekresultaten. Het is ook belangrijk om te onthouden dat SEO een continu proces is. Regelmatige audits en aanpassingen zijn noodzakelijk om ervoor te zorgen dat je website blijft presteren op het hoogste niveau.
+
+Link naar slide:
+https://speakerdeck.com/whitworthseo/how-to-tackle-keyword-cannibalisation-and-dominate-the-serps
+
+Unleashing the Full Power of Keyword Research
+– Jessica Maloney
+
+De presentatie “Unleashing the Full Power of Keyword Research” door Jess Maloney gaat over het maximaliseren van het potentieel van zoekwoordonderzoek in SEO.
+
+Waarom is zoekwoorden onderzoek belangrijk?
+Jess Maloney, Search Strategy Lead bij Rise at Seven, begint met te benadrukken hoe haar team zoekwoorden heeft gevonden met meer dan 400.000 zoekopdrachten per maand die niet werden getarget door de concurrenten van hun klanten. Ze onthult ook dat ze een platform hebben geïdentificeerd met meer dan 5 miljoen zoekopdrachten per maand dat deze zelfde concurrenten niet gebruikten. Ik hoor je denken ‘‘Hoe is dit mogelijk?’’ Zoekwoorden onderzoek!
+
+Veelvoorkomende fouten in zoekwoorden onderzoek
+Ze gaat verder met het bespreken van veelvoorkomende fouten in zoekwoorden onderzoek, zoals het niet opnemen van zoekwoordvariaties in je lijst, het alleen onderzoeken van zoekwoorden waarvoor je momenteel rankt, en het alleen gebruiken van zoekwoorden voor maandelijkse rapporten.
+
+Holistische benadering
+Jess benadrukt het belang van het begrijpen van je publiek en stelt voor om overal te zoeken, niet alleen op Google. Ze introduceert een holistische benadering voor het ontwikkelen van een digitale strategie, waarbij zoekwoorden onderzoek centraal staat in het begrijpen van de behoeften en interesses van het publiek. Het woord ‘holistisch’ klinkt misschien wat vaag, maar wat ze hiermee bedoelt is dat bij het ontwikkelen van een digitale strategie het belangrijk is dat inzichten van alle onderdelen (SEO, Paid, Social, Digital PR en Data) de algemene (digitale) strategie drijven.
+
+Keyword Universe
+Ze legt uit hoe je een “Keyword Universe” kunt opzetten om je klanten te imponeren met diepgaande inzichten. Door zoekwoorden op te splitsen op basis van intentie, zoals bewustzijn, overweging en conversie, kunnen marketeers meer gerichte en effectieve strategieën ontwikkelen.
+
+Kijk hoe concurrenten zich verhouden
+Jess benadrukt ook het belang van het kijken naar concurrenten, maar waarschuwt dat hun strategieën niet noodzakelijkerwijs de blauwdruk voor succes zijn. Ze deelt praktische stappen voor het uitvoeren van zoekwoorden onderzoek, zoals het verzamelen van veel zoekwoorden, het bepalen van categorieën, het ophalen van zoekvolumes en rankings, en het creëren van een dashboard voor analyse.
+
+Tot slot benadrukt ze het belang van het aanpassen van de strategie aan de prioriteiten van de klant en het herkennen en aanpakken van zwakke punten in de zoekstrategie.
+
+Link naar slide:
+https://speakerdeck.com/jessicamal/unleashing-the-full-power-of-keyword-research
+
+Building an Automated Content Strategy: Practical Tips and Best Practices
+– Daniel Axelsson
+
+De presentatie van Daniel Axelsson over het automatiseren van jouw content strategie was een zeer boeiende presentatie. Wat de presentatie “Building an Automated Content Strategy: Practical Tips and Best Practices” zo bijzonder maakte, was dat niet alleen de theoretische kennis door Daniel werd gedeeld. Maar ook zijn concrete, praktische inzichten en methoden die hij aanbood om jou contentstrategieën te optimaliseren en de mogelijkheid om deze te automatiseren.
+
+Daniel richtte met zijn presentatie op drie kernstrategieën die hij benadrukt essentieel te zijn voor het bouwen van een geautomatiseerde contentstrategie:
+
+Reactief
+Deze strategie draait volledig om het reageren op gebeurtenissen nadat ze hebben plaatsgevonden. Maar het gaat veel verder dan alleen reageren. Het gaat om het instellen van wekelijkse crawls, het verbinden van API’s en het vergelijken van deze resultaten met die van de vorige week. Een cruciaal onderdeel van deze aanpak is het gebruik van Google Apps Script. Met deze tool kunnen marketeers wekelijkse inzichten verkrijgen. Door deze strategie te implementeren, kun je als marketeer een real-time monitoring opzetten. Zo word je direct op de hoogte gebracht van belangrijke wijzigingen in jouw contentlandschap.
+
+Preventief
+Terwijl de reactieve strategie draait om reageren, is de preventieve strategie gericht op voorbereiding. Het gaat erom vooruit te denken en mogelijke toekomstige gebeurtenissen te anticiperen. Een van de belangrijkste aanbevelingen van Daniel in deze categorie was het monitoren van concurrenten. Door meldingen in te stellen, blijf je als marketeer op de hoogte van de beslissingen en wijzigingen die jouw concurrenten maken. Dit zorgt ervoor dat je altijd een stap voor blijft op de concurrentie.
+
+Proactief
+Hier draait alles om het nemen van initiatief. Trefwoorden vormen de ruggengraat van deze strategie. Het proces omvat het verzamelen van gegevens uit diverse bronnen, het uitvoeren van grondig onderzoek naar prioriteitstrefwoorden en het automatiseren van de contentplanning. Door proactief te zijn, kun je als marketeer kansen identificeren en benutten voordat jouw concurrenten dat doen.
+
+Key Takeaways
+Buiten deze drie kernstrategieën benadrukte Daniel ook het belang van het definiëren van behoeften. Het is niet voldoende om simpelweg tools en processen te automatiseren. Je moet als marketeer eerst jouw behoeften begrijpen en vervolgens beslissen welke stappen geautomatiseerd moeten worden. Automatisering mag nooit het menselijk denkproces vervangen. Het is van cruciaal belang om te vertrouwen op menselijke vaardigheden en expertise, vooral in een veld dat zo dynamisch en veranderlijk is als contentmarketing.
+Een ander belangrijk punt dat Daniel aanhaalde, was het gebruik van tools. In de snel evoluerende wereld van digitale marketing komen er voortdurend nieuwe tools en technologieën op de markt. Het is essentieel voor marketeers om een solide beoordelingsproces voor nieuwe tools te hebben en zich hier consequent aan te houden. Door kritisch te zijn bij het kiezen van tools, zorg je ervoor dat je als marketeer altijd de beste technologieën gebruikt om jouw doelen te bereiken.
+De blogpost op de Voxel / Pixel-website biedt ook enkele aanvullende inzichten. Daniel benadrukte het belang van het hebben van een duidelijke visie en doelstellingen. Zonder een duidelijke richting kun je gemakkelijk verdwalen in de veelheid van tools en strategieën die beschikbaar zijn. Het is ook van cruciaal belang om te blijven leren en je aan te passen aan de veranderende landschappen van SEO en contentmarketing.
+Kort samengevat
+Daniel Axelsson heeft een schat aan kennis en inzichten gedeeld over het bouwen van een geautomatiseerde contentstrategie. Zijn benadering van reactief, preventief en proactief denken biedt een solide raamwerk voor marketeers om hun strategieën te bouwen en te optimaliseren. Door te focussen op het definiëren van behoeften, het kiezen van de juiste tools en het hebben van een duidelijke visie, kun je als marketeer jouw contentstrategie naar een hoger niveau tillen.
+
+Links
+https://voxeltool.io/wp-content/uploads/building-automated-content-strategy.pdf
+
+https://voxeltool.io/news/brighton2023/
+
+Embracing AI in SEO: How to 10x your SEO leveraging AI bots
+– Aleyda Solis
+
+Op BrightonSEO in september 2023 presenteerde Aleyda Solis een fascinerende blik op de toekomst van SEO in haar presentatie getiteld “Embracing AI in SEO: How to 10x your SEO leveraging AI bots #BrightonSEO”. Deze presentatie bood een diepgaand inzicht in de impact van kunstmatige intelligentie (AI) op de wereld van SEO en de kansen die AI-bots bieden. Hieronder haar inzichten samengevat.
+
+De Revolutie van grote taalmodellen:
+De zoekwereld heeft een radicale transformatie ondergaan met de opkomst van grote taalmodellen zoals GPT-3. Deze taalmodellen, aangedreven door geavanceerde algoritmen en enorme datasets, hebben de manier waarop we zoeken en content produceren fundamenteel veranderd. Het is een ontwikkeling die vergelijkbaar is met de opkomst van Google zelf. Waar we voor de AI tijdperk zelf werden aangewezen om handmatig onze content te creëeren, kunnen we nu met behulp van taalmodellen als ChatGPT of WriteSonic content genereren die zowel die aansluit op de zoekintentie en relevant is.
+
+AI’s Rol in SEO:
+Kunstmatige intelligentie heeft een diepgaande impact op SEO. Of het nu gaat om contentcreatie, technische SEO of linkbuilding, AI speelt een steeds grotere rol. We zien dat AI helpt bij het automatiseren van taken, het genereren van content en zelfs het analyseren van complexe datasets. Zo kunnen we als SEO-specialisten bijvoorbeeld in plaats van handmatig zoekwoordonderzoek te doen, nu AI  tools gebruiken die suggesties doen op basis van realtime data-analyse. Dit betekent dat de content die we produceren nauwkeuriger en relevanter is dan ooit tevoren.
+
+Nieuwe Tools en Integraties
+De integratie van AI in SEO heeft geleid tot de lancering van nieuwe tools en de verdere integratie van AI in de tools die we al gebruiken. Deze tools maken het leven van een SEO-specialist niet alleen gemakkelijker maar ook efficiënter. Denk aan tools die automatisch technische problemen op een website identificeren of die helpen bij het optimaliseren van de site-architectuur. Met deze tools kunnen SEO-specialisten zich concentreren op strategische beslissingen in plaats van routinetaken.
+
+Uitdagingen van AI-Content
+Hoewel AI veel voordelen biedt, zijn er ook uitdagingen. Daarbij is één van deze uitdaging het waarborgen van de kwaliteit en originaliteit van content die door AI gegenereerd zijn. Zonder de juiste validatie van de genereerde content kan het leiden tot imago schade. Je moet namelijk wel kunnen valideren of de informatie de waarheid is. Daarnaast kan AI-gestuurde content generiek of
+
+repetitief worden. Wat kan leiden tot een slechte gebruikerservaring van je pagina’s.
+
+Het belang van validatie
+Zoals al eerder bij de uitdagingen de validatie werd benoemd, is het belangrijk om bij het belang hiervan nog even stil te staan. Om de kwaliteit van AI-content te waarborgen, is het namelijk essentieel om een validatieproces te volgen. Door validatie kunnen we ervoor zorgen dat de content die we produceren zowel origineel als van hoge kwaliteit is. Dit betekent dat SEO-specialisten nog steeds een cruciale rol spelen in het proces. Ze moeten de door AI gegenereerde content beoordelen, verfijnen, controleren op expertise en optimaliseren om ervoor te zorgen dat deze voldoet aan de hoogste normen.
+
+Diverse toepassingen van AI
+AI is niet alleen beperkt tot contentgeneratie. Het kan worden gebruikt ter ondersteuning van een breed diversiteit aan SEO-taken. Hierbij kun je denken aan data-analyse tot technische SEO ondersteuning. Zie AI als jouw assistent die je kan ondersteunen in elk aspect van SEO. De mogelijkheden zijn eindeloos. Maar het is aan ons als SEO-specialist om deze technologie optimaal te benutten.
+
+Kort samengevat
+De toekomst van SEO ligt bij in de integratie van AI. Het biedt ons ongekende mogelijkheden en het is tijd om onze SEO-verbeelding de vrije loop te laten. In plaats van te vrezen moeten we deze technologische ontwikkeling omarmen. Zodat we voorop kunnen blijven lopen in de branche en zorgen voor een betere, meer relevante en efficiënte gebruikerservaring.
+
+Link naar slide:
+https://speakerdeck.com/aleyda/embracing-ai-in-seo-how-to-10x-your-seo-leveraging-ai-bots-number-brightonseo
+
+Apple, Bing & Google for Multi Location Local SEO
+– Michel van Luijtelaar
+
+Tijdens Brighton SEO 2023 had ik het genoegen om de presentatie van Michel van Luijtelaar bij te wonen, getiteld “Apple, Bing & Google voor Multi Location Local SEO”. In deze lezing legt Michel de nieuwste lokale SEO-strategieën uit die beschikbaar zijn voor bedrijven met meerdere locaties in Apple Business Connect (ABC), Bing Places en Google Bedrijfsprofielen. Terwijl je duidelijke richtlijnen krijgt over wat je moet doen om het beste uit jouw Multi-Location Local SEO-strategie te halen.
+
+De focus ligt op de nieuwste ontwikkelingen binnen ABC die relevant zijn voor grotere ketens. Maar ook over hoe je een A/B-test doet op het gebied van Lokale SEO, en waarover. Door A/B-testen uit te voeren op grote accounts met meerdere locaties in heel Europa, heeft Michel geleerd welke optimalisaties de meeste impact hebben. Een van de belangrijkste onderwerpen die we zullen onderzoeken zijn Google Reviews en de keuzes die beschikbaar zijn voor bedrijven met meerdere locaties op het gebied van reputatiebeheer en interactie met feedback van klanten.
+
+Wat is er nieuw in lokale SEO?
+Michel begon zijn presentatie met een uitleg over de nieuwste lokale SEO-strategieën die beschikbaar zijn voor bedrijven met meerdere locaties. Hij besprak de mogelijkheden binnen Apple Business Connect (ABC), Bing Places en Google Bedrijfsprofielen. Hij benadrukte dat er recente ontwikkelingen zijn geweest in ABC die bijzonder relevant zijn voor grotere ketens.
+
+Het belang van A/B-testen
+Een interessant punt dat Michel naar voren bracht, was het belang van A/B-testen in lokale SEO. Door zijn ervaring met het uitvoeren van A/B-tests op grote accounts met meerdere locaties in heel Europa, heeft hij waardevolle inzichten verkregen over de meest effectieve optimalisatiemethoden.
+
+Google Reviews
+Een ander belangrijk onderwerp dat werd besproken, was het beheer van Google Reviews. Michel benadrukte hoe bedrijven met meerdere locaties kunnen omgaan met klantfeedback en hun reputatie kunnen beheren.
+
+GMB API
+Last but not least laat Michel zien hoe je zijn software, GMB API, kunt gebruiken om een analyse te maken van een GMB-account met meerdere locaties, je eerste bericht kunt plaatsen en kansen in reputatiebeoordeling kunt beoordelen. En dit alles met een gratis testaccount dat in slechts 10 minuten kan worden geactiveerd!
+
+Opvallende statistieken
+Tijdens de presentatie deelde Michel ook enkele opvallende statistieken. Bijvoorbeeld, hij merkte op dat 6 op de 10 bedrijven hun Apple Map-vermelding nog niet hebben geclaimd. Bovendien maakt slechts 16% van de bedrijven gebruik van Apple Business Connect.
+
+Al met al was het een zeer informatieve sessie die veel inzicht bood in de wereld van lokale SEO voor bedrijven met meerdere locaties. Heb jij jouw bedrijf al geclaimd op ABC en Bing Maps?
+
+Link naar slide:
+https://speakerdeck.com/sllides4_gmbapi/apple-bing-and-google-for-multi-location-local-seo-brighton-seo-2023
+
+Facing your SEO fears: forecasting
+– Hannah Rogers, Journey Further
+
+Hannah Rogers, Senior SEO Analyst bij Journey Further, benadrukt het belang van verantwoording (‘accountability’) bij SEO-forecasting. Ze bespreekt wat forecasting volgens haar moet zijn, waarom verantwoording belangrijk is en geeft een voorbeeld hoe je een verantwoorde forecast uitvoert.
+
+Neem verantwoordelijkheid voor je forecast
+Tijdens de presentatie van Hannah Rogers werd de nadruk gelegd op het belang van verantwoording (accountability) in SEO-forecasting. Hannah benadrukte dat het cruciaal is om verantwoording te nemen voor de voorspellingen die worden gedaan op het gebied van SEO. Dit helpt niet alleen bij het opbouwen van vertrouwen met klanten en stakeholders, maar zorgt er ook voor dat de voorspellingen realistisch en haalbaar (genoeg) zijn.
+
+Verantwoording in SEO-forecasting betekent dat men zich bewust is van de methodologieën en tools die worden gebruikt, en dat men in staat is om de resultaten te verklaren en te verdedigen. Het gaat erom dat men verantwoordelijkheid neemt voor de voorspellingen en bereid is om aanpassingen te maken op basis van veranderende omstandigheden.
+
+Voorbeeld van hoe je een verantwoorde forecast uitvoert
+Een voorbeeld van een verantwoorde forecast zou zijn om duidelijke doelstellingen en KPI’s vast te stellen, gebruik te maken van betrouwbare data en tools, en regelmatig de voortgang te evalueren en bij te sturen waar nodig. Het is ook belangrijk om transparant te zijn over de aannames die worden gemaakt en eventuele beperkingen van de gebruikte methoden. Bekijk de slides voor een voorbeeld hoe Hannah een verantwoorde forecast uitvoert.
+
+Conclusie
+In het algemeen benadrukte Hannah het belang van het hebben van een solide proces voor SEO-forecasting en het nemen van verantwoordelijkheid voor de resultaten. Dit helpt niet alleen bij het verbeteren van de nauwkeurigheid van de voorspellingen, maar versterkt ook de relatie met klanten en andere belanghebbenden.
+
+Link naar slide:
+https://www.slideshare.net/HannahRogers52/hannah-rogers-facing-your-seo-fears-forecasting
+
+Advanced link profile analysis 2023
+– Bill Hartzer
+
+Tijdens de Brighton SEO 2023 had ik het voorrecht om de presentatie van Bill Hartzer bij te wonen, getiteld “Advanced Link Analysis”. In deze sessie geeft Bill Hartzer niet alleen antwoord op de vragen ‘’Wat is een goede link?’’ en ‘’Wat is een slechte link?’’, maar neemt hij ook het geavanceerde proces van het analyseren van linkprofielen door.
+
+Links in 2023
+Bill opende zijn presentatie met de zin ‘’Ranking withouth links is really, really hard, says Google’’.
+
+Ranken zonder links is echt heel moeilijk (zegt Google) dus wat maakt een goede link? En wat is dan een slechte link? Volgens Bill is het in 2023 niet noodzakelijkerwijs meer een kwestie van ‘‘goede’’ versus ‘‘slechte’’ links, maar eerder links die tellen versus links die genegeerd worden (door Google). Maar welke links tellen en welke links worden genegeerd?
+
+Links die tellen
+Een opvallend punt dat Bill naar voren bracht, was dat we niet langer links hoeven te disavowen (niet dat ik dit ooit gedaan heb, jij?). Hij ging verder met het beschrijven van de soorten links die zullen tellen, zoals links van een pagina die relevant (on-topic) is, links die  prominent op de pagina staan, links die in context zinvol zijn en links die niet zijn gemarkeerd als nofollow of gesponsord zijn.
+
+Links die worden genegeerd
+Bill waarschuwde ook voor links die worden genegeerd, zoals off-topic links, links van volwassen sites naar niet-volwassen content, en links die diep op een pagina zijn begraven. Hij besprak het concept van linknetwerken en hoe sommige daarvan, hoewel ze natuurlijk lijken, eigenlijk linknetwerken zijn die kunnen worden genegeerd of zelfs bestraft.
+
+Dynamically Controlled Linking
+Een interessant deel van zijn presentatie was gewijd aan het concept van “Dynamically Controlled Linking”, waarbij hij een patent en een linkbeheersysteem introduceerde dat links en ankertekst dynamisch kan regelen.
+
+Het belang van Tiered Links
+Het gebruik van Tiered Links is een strategie die gaat om het creëren van meerdere niveaus (of ‘‘tiers’’, bijvoorbeeld Tier 1, Tier 2 en Tier 3, en hoger) van backlinks. Met Tiered Links kun je websites met meer autoriteit onderscheiden. Bill geeft in zijn presentatie enkele voorbeeldweergaves van Tier 1 en Tier 2 links met behulp van Majestic.
+
+On-topic links zijn het beste type links
+Hij legde uit dat zoekmachines nu beter de inhoud en links begrijpen, waardoor on-topic links de beste soort links zijn. On-topic links zijn links die relevant zijn voor de inhoud van de website of pagina waarnaar wordt gelinkt. Naarmate zoekmachines content beter begrijpen, begrijpen ze ook links beter. Ze begrijpen het verschil tussen ‘’natuurlijke’’, relevante links en ‘‘onnatuurlijke’’ en niet relevante links. Maak gebruik van Majestic Topical Trust Flow om te bepalen of een link on-topic is.
+
+Het beoordelen van links en een linkprofiel
+Bij het evalueren van links en een linkprofiel adviseerde Bill om te kijken naar het algemene overzicht van links, Trust Flow (Majestic), Domain Authority (Moz) & Domain Rating (Ahrefs) en Authority Score (Semrush). Hij benadrukte ook het belang van het controleren van ankerteksten op te veel exacte overeenkomsten, 301-redirects en historische versus nieuw backlinks.
+
+Een linkprofiel recreëren
+Je zult waarschijnlijk niet ranken met een nieuwe site zonder in de buurt te komen van het aantal links dat concurrenten hebben. Je kunt verlopen domeinen en redirects voor links gebruiken, maar dit kan erg lastig en riskant zijn. Een goede strategie om dit te doen is het recreëren van de linkprofielen van concurrenten. Bekijk de ankertekst percentages van concurrenten en stel jezelf de volgende vragen: Hoeveel procent is branded versus non-branded? Welk percentage zijn bepaalde zoekwoorden? Kies sites die al ranken op de zoekwoorden waarvoor je wilt ranken!
+
+Key Takeaways
+Bill sloot zijn presentatie af met de belangrijkste leerpunten, waaronder het belang van on-topic links, het concentreren op links die tellen, het analyseren van linkprofielen op basis van Tiered links (niet alleen op basis van Tier 1 links) en het kunnen identificeren van PBN’s (Private Blog Networks). Hij benadrukte ook het belang van het controleren op 301-redirects, historische versus nieuwe links, en het beoordelen van ankerteksten.
+
+Na zijn presentatie had ik het gevoel dat ik veel dieper inzicht had gekregen in geavanceerde linkanalyse en de nuances die ermee gepaard gaan. Bill’s expertise en diepgaande kennis waren duidelijk zichtbaar, en het was een verrijkende ervaring om zijn inzichten te horen.
+
+Link naar slide:
+https://speakerdeck.com/bhartzer/brighton-seo-2023-advanced-link-analysis
+
+Tot volgend jaar!
+BrightonSEO heeft zich wederom bewezen als een van de grootste conferenties op het gebied van SEO. Met een breed scala aan sprekers die hun expertise en inzichten deelden, bood het evenement waardevolle leermogelijkheden voor zowel beginners als doorgewinterde professionals. De diversiteit aan onderwerpen, van geavanceerde linkanalyse tot de nieuwste SEO-trends, zorgde ervoor dat elke deelnemer iets nieuws kon leren. Het netwerken en de interactie tussen de deelnemers versterkten het gevoel van gemeenschap binnen de SEO-industrie. Als je serieus bent over het verdiepen van je kennis in SEO en het ontmoeten van gelijkgestemde professionals, dan is BrightonSEO een evenement dat je niet mag missen. We kijken al uit naar de volgende editie!
