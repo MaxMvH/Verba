@@ -1,0 +1,4 @@
+What is a vector database? Explain in one sentence.
+
+In a few words, what is a RAG search? 
+
